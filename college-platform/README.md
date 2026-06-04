@@ -4,7 +4,7 @@ A college discovery and decision-making platform for Indian students. Search and
 filter colleges, open rich detail pages, compare institutions side by side,
 predict admission chances from an entrance rank, and ask/answer questions in a
 community Q&A. 
-to open on vercel pls follow link : https://campuscompass-rfa99vb72-jahnvichaudharys-projects.vercel.app/
+to open on vercel pls follow link : https://campuscompass-zeta.vercel.app/
 
 ## Problem — what real problem does this solve
 
