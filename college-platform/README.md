@@ -5,13 +5,6 @@ filter colleges, open rich detail pages, compare institutions side by side,
 predict admission chances from an entrance rank, and ask/answer questions in a
 community Q&A.
 
-Built with **Next.js (App Router) + TypeScript** for the frontend and the
-**Next.js Route Handlers** as the REST backend, with **SQLite (better-sqlite3)**
-for persistence. Everything runs locally on **port 3000** — no external services,
-no API keys, no placeholder URLs to fill in.
-
----
-
 ## Problem — what real problem does this solve
 
 Choosing a college in India is overwhelming. Information is scattered across
