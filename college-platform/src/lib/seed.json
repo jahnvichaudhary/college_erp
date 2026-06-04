@@ -1,0 +1,4222 @@
+{
+  "colleges": [
+    {
+      "id": 1,
+      "name": "Indian Institute of Management Chennai",
+      "slug": "indian-institute-of-management-chennai",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "type": "Government",
+      "stream": "Commerce",
+      "established": 2002,
+      "rating": 3.5,
+      "reviewCount": 496,
+      "annualFee": 69256,
+      "naacGrade": "B+",
+      "nirfRank": 23,
+      "exams": [
+        "CUET",
+        "University Entrance"
+      ],
+      "overview": "Indian Institute of Management Chennai is a government institution located in Chennai, Tamil Nadu, established in the field of commerce. The campus is known for its rigorous academics, active student community and strong industry connections that support placements and research.",
+      "campusSizeAcres": 62,
+      "hostelAvailable": true,
+      "courses": [
+        {
+          "name": "B.Com Honours",
+          "degree": "B.Com",
+          "durationYears": 3,
+          "annualFee": 76000,
+          "seats": 60
+        },
+        {
+          "name": "BBA",
+          "degree": "BBA",
+          "durationYears": 3,
+          "annualFee": 78000,
+          "seats": 240
+        },
+        {
+          "name": "M.Com",
+          "degree": "M.Com",
+          "durationYears": 2,
+          "annualFee": 72000,
+          "seats": 180
+        }
+      ],
+      "placements": [
+        {
+          "year": 2021,
+          "avgPackageLpa": 7.1,
+          "highestPackageLpa": 38.5,
+          "placementRate": 78.1,
+          "topRecruiters": [
+            "Goldman Sachs",
+            "Cisco",
+            "JP Morgan",
+            "Accenture",
+            "Infosys"
+          ]
+        },
+        {
+          "year": 2022,
+          "avgPackageLpa": 7.1,
+          "highestPackageLpa": 37.6,
+          "placementRate": 80.0,
+          "topRecruiters": [
+            "Adobe",
+            "TCS",
+            "Flipkart",
+            "ITC",
+            "Accenture"
+          ]
+        },
+        {
+          "year": 2023,
+          "avgPackageLpa": 8.6,
+          "highestPackageLpa": 44.6,
+          "placementRate": 88.7,
+          "topRecruiters": [
+            "Adobe",
+            "Amazon",
+            "ITC",
+            "Wipro",
+            "Flipkart"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Lovely Professional Technology Kolkata",
+      "slug": "lovely-professional-technology-kolkata",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "type": "Government",
+      "stream": "Arts & Science",
+      "established": 1960,
+      "rating": 3.8,
+      "reviewCount": 477,
+      "annualFee": 126673,
+      "naacGrade": "A+",
+      "nirfRank": 26,
+      "exams": [
+        "University Entrance",
+        "CUET"
+      ],
+      "overview": "Lovely Professional Technology Kolkata is a government institution located in Kolkata, West Bengal, established in the field of arts & science. The campus is known for its rigorous academics, active student community and strong industry connections that support placements and research.",
+      "campusSizeAcres": 340,
+      "hostelAvailable": true,
+      "courses": [
+        {
+          "name": "B.Sc Physics",
+          "degree": "B.Sc",
+          "durationYears": 3,
+          "annualFee": 113000,
+          "seats": 120
+        },
+        {
+          "name": "BA Economics",
+          "degree": "BA",
+          "durationYears": 3,
+          "annualFee": 117000,
+          "seats": 120
+        },
+        {
+          "name": "B.Sc Computer Science",
+          "degree": "B.Sc",
+          "durationYears": 3,
+          "annualFee": 154000,
+          "seats": 60
+        }
+      ],
+      "placements": [
+        {
+          "year": 2021,
+          "avgPackageLpa": 6.1,
+          "highestPackageLpa": 21.4,
+          "placementRate": 92.6,
+          "topRecruiters": [
+            "Goldman Sachs",
+            "Bosch",
+            "Adobe",
+            "Accenture",
+            "McKinsey"
+          ]
+        },
+        {
+          "year": 2022,
+          "avgPackageLpa": 6.7,
+          "highestPackageLpa": 37.0,
+          "placementRate": 93.5,
+          "topRecruiters": [
+            "McKinsey",
+            "Microsoft",
+            "JP Morgan",
+            "Adobe",
+            "Accenture"
+          ]
+        },
+        {
+          "year": 2023,
+          "avgPackageLpa": 6.4,
+          "highestPackageLpa": 36.7,
+          "placementRate": 89.3,
+          "topRecruiters": [
+            "JP Morgan",
+            "Deloitte",
+            "Larsen & Toubro",
+            "Adobe",
+            "Bosch"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Sri Science Jaipur",
+      "slug": "sri-science-jaipur",
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "type": "Deemed",
+      "stream": "Management",
+      "established": 1982,
+      "rating": 4.4,
+      "reviewCount": 499,
+      "annualFee": 188876,
+      "naacGrade": "B+",
+      "nirfRank": 103,
+      "exams": [
+        "XAT",
+        "GMAT"
+      ],
+      "overview": "Sri Science Jaipur is a deemed institution located in Jaipur, Rajasthan, established in the field of management. The campus is known for its rigorous academics, active student community and strong industry connections that support placements and research.",
+      "campusSizeAcres": 275,
+      "hostelAvailable": true,
+      "courses": [
+        {
+          "name": "MBA Finance",
+          "degree": "MBA",
+          "durationYears": 2,
+          "annualFee": 236000,
+          "seats": 60
+        },
+        {
+          "name": "MBA Marketing",
+          "degree": "MBA",
+          "durationYears": 2,
+          "annualFee": 168000,
+          "seats": 90
+        },
+        {
+          "name": "BBA",
+          "degree": "BBA",
+          "durationYears": 3,
+          "annualFee": 240000,
+          "seats": 180
+        },
+        {
+          "name": "PGDM",
+          "degree": "PGDM",
+          "durationYears": 2,
+          "annualFee": 218000,
+          "seats": 180
+        }
+      ],
+      "placements": [
+        {
+          "year": 2021,
+          "avgPackageLpa": 15.6,
+          "highestPackageLpa": 93.4,
+          "placementRate": 88.6,
+          "topRecruiters": [
+            "ITC",
+            "Google",
+            "TCS",
+            "Accenture",
+            "JP Morgan"
+          ]
+        },
+        {
+          "year": 2022,
+          "avgPackageLpa": 15.9,
+          "highestPackageLpa": 68.4,
+          "placementRate": 87.1,
+          "topRecruiters": [
+            "Accenture",
+            "HUL",
+            "Goldman Sachs",
+            "KPMG",
+            "TCS"
+          ]
+        },
+        {
+          "year": 2023,
+          "avgPackageLpa": 19.9,
+          "highestPackageLpa": 77.5,
+          "placementRate": 90.8,
+          "topRecruiters": [
+            "Cognizant",
+            "Deloitte",
+            "Infosys",
+            "Flipkart",
+            "Goldman Sachs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Indian Institute of Engineering Coimbatore",
+      "slug": "indian-institute-of-engineering-coimbatore",
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "type": "Private",
+      "stream": "Arts & Science",
+      "established": 2011,
+      "rating": 4.7,
+      "reviewCount": 465,
+      "annualFee": 160211,
+      "naacGrade": "A",
+      "nirfRank": null,
+      "exams": [
+        "CUET",
+        "University Entrance"
+      ],
+      "overview": "Indian Institute of Engineering Coimbatore is a private institution located in Coimbatore, Tamil Nadu, established in the field of arts & science. The campus is known for its rigorous academics, active student community and strong industry connections that support placements and research.",
+      "campusSizeAcres": 58,
+      "hostelAvailable": true,
+      "courses": [
+        {
+          "name": "B.Sc Physics",
+          "degree": "B.Sc",
+          "durationYears": 3,
+          "annualFee": 206000,
+          "seats": 240
+        },
+        {
+          "name": "BA Economics",
+          "degree": "BA",
+          "durationYears": 3,
+          "annualFee": 201000,
+          "seats": 90
+        },
+        {
+          "name": "B.Sc Computer Science",
+          "degree": "B.Sc",
+          "durationYears": 3,
+          "annualFee": 191000,
+          "seats": 240
+        }
+      ],
+      "placements": [
+        {
+          "year": 2021,
+          "avgPackageLpa": 5.6,
+          "highestPackageLpa": 25.7,
+          "placementRate": 90.1,
+          "topRecruiters": [
+            "Deloitte",
+            "ITC",
+            "Cognizant",
+            "Wipro",
+            "Adobe"
+          ]
+        },
+        {
+          "year": 2022,
+          "avgPackageLpa": 7.1,
+          "highestPackageLpa": 35.1,
+          "placementRate": 86.8,
+          "topRecruiters": [
+            "HUL",
+            "Bosch",
+            "TCS",
+            "McKinsey",
+            "Cognizant"
+          ]
+        },
+        {
+          "year": 2023,
+          "avgPackageLpa": 6.4,
+          "highestPackageLpa": 19.6,
+          "placementRate": 89.1,
+          "topRecruiters": [
+            "KPMG",
+            "McKinsey",
+            "Google",
+            "Amazon",
+            "Microsoft"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Indian Institute of Management Bengaluru",
+      "slug": "indian-institute-of-management-bengaluru",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Government",
+      "stream": "Management",
+      "established": 1968,
+      "rating": 4.3,
+      "reviewCount": 316,
+      "annualFee": 107391,
+      "naacGrade": "A+",
+      "nirfRank": 147,
+      "exams": [
+        "XAT",
+        "CMAT"
+      ],
+      "overview": "Indian Institute of Management Bengaluru is a government institution located in Bengaluru, Karnataka, established in the field of management. The campus is known for its rigorous academics, active student community and strong industry connections that support placements and research.",
+      "campusSizeAcres": 223,
+      "hostelAvailable": false,
+      "courses": [
+        {
+          "name": "MBA Finance",
+          "degree": "MBA",
+          "durationYears": 2,
+          "annualFee": 92000,
+          "seats": 180
+        },
+        {
+          "name": "MBA Marketing",
+          "degree": "MBA",
+          "durationYears": 2,
+          "annualFee": 108000,
+          "seats": 180
+        },
+        {
+          "name": "BBA",
+          "degree": "BBA",
+          "durationYears": 3,
+          "annualFee": 116000,
+          "seats": 60
+        },
+        {
+          "name": "PGDM",
+          "degree": "PGDM",
+          "durationYears": 2,
+          "annualFee": 129000,
+          "seats": 60
+        }
+      ],
+      "placements": [
+        {
+          "year": 2021,
+          "avgPackageLpa": 14.6,
+          "highestPackageLpa": 75.7,
+          "placementRate": 94.0,
+          "topRecruiters": [
+            "TCS",
+            "McKinsey",
+            "Deloitte",
+            "ITC",
+            "Bosch"
+          ]
+        },
+        {
+          "year": 2022,
+          "avgPackageLpa": 16.0,
+          "highestPackageLpa": 56.8,
+          "placementRate": 87.3,
+          "topRecruiters": [
+            "Amazon",
+            "Bosch",
+            "ITC",
+            "TCS",
+            "Microsoft"
+          ]
+        },
+        {
+          "year": 2023,
+          "avgPackageLpa": 19.1,
+          "highestPackageLpa": 88.3,
+          "placementRate": 78.3,
+          "topRecruiters": [
+            "Amazon",
+            "McKinsey",
+            "Goldman Sachs",
+            "Cisco",
+            "Larsen & Toubro"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Birla Institute of Higher Studies Kolkata",
+      "slug": "birla-institute-of-higher-studies-kolkata",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "type": "Government",
+      "stream": "Law",
+      "established": 1971,
+      "rating": 4.8,
+      "reviewCount": 514,
+      "annualFee": 61579,
+      "naacGrade": "B++",
+      "nirfRank": 74,
+      "exams": [
+        "LSAT India",
+        "AILET"
+      ],
+      "overview": "Birla Institute of Higher Studies Kolkata is a government institution located in Kolkata, West Bengal, established in the field of law. The campus is known for its rigorous academics, active student community and strong industry connections that support placements and research.",
+      "campusSizeAcres": 94,
+      "hostelAvailable": false,
+      "courses": [
+        {
+          "name": "BA LLB",
+          "degree": "LLB",
+          "durationYears": 5,
+          "annualFee": 57000,
+          "seats": 60
+        },
+        {
+          "name": "BBA LLB",
+          "degree": "LLB",
+          "durationYears": 5,
+          "annualFee": 70000,
+          "seats": 240
+        },
+        {
+          "name": "LLM Corporate Law",
+          "degree": "LLM",
+          "durationYears": 1,
+          "annualFee": 51000,
+          "seats": 120
+        }
+      ],
+      "placements": [
+        {
+          "year": 2021,
+          "avgPackageLpa": 10.0,
+          "highestPackageLpa": 47.5,
+          "placementRate": 88.1,
+          "topRecruiters": [
+            "HUL",
+            "Goldman Sachs",
+            "Microsoft",
+            "Cognizant",
+            "Amazon"
+          ]
+        },
+        {
+          "year": 2022,
+          "avgPackageLpa": 12.7,
+          "highestPackageLpa": 40.7,
+          "placementRate": 79.4,
+          "topRecruiters": [
+            "McKinsey",
+            "Adobe",
+            "TCS",
+            "Cognizant",
+            "Microsoft"
+          ]
+        },
+        {
+          "year": 2023,
+          "avgPackageLpa": 13.1,
+          "highestPackageLpa": 55.8,
+          "placementRate": 89.7,
+          "topRecruiters": [
+            "HUL",
+            "JP Morgan",
+            "Accenture",
+            "Deloitte",
+            "KPMG"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Christ Science Jaipur",
+      "slug": "christ-science-jaipur",
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "type": "Deemed",
+      "stream": "Management",
+      "established": 2003,
+      "rating": 3.8,
+      "reviewCount": 519,
+      "annualFee": 239858,
+      "naacGrade": "A++",
+      "nirfRank": 3,
+      "exams": [
+        "GMAT",
+        "CAT"
+      ],
+      "overview": "Christ Science Jaipur is a deemed institution located in Jaipur, Rajasthan, established in the field of management. The campus is known for its rigorous academics, active student community and strong industry connections that support placements and research.",
+      "campusSizeAcres": 52,
+      "hostelAvailable": true,
+      "courses": [
+        {
+          "name": "MBA Finance",
+          "degree": "MBA",
+          "durationYears": 2,
+          "annualFee": 264000,
+          "seats": 90
+        },
+        {
+          "name": "MBA Marketing",
+          "degree": "MBA",
+          "durationYears": 2,
+          "annualFee": 326000,
+          "seats": 60
+        },
+        {
+          "name": "BBA",
+          "degree": "BBA",
+          "durationYears": 3,
+          "annualFee": 318000,
+          "seats": 120
+        },
+        {
+          "name": "PGDM",
+          "degree": "PGDM",
+          "durationYears": 2,
+          "annualFee": 232000,
+          "seats": 180
+        }
+      ],
+      "placements": [
+        {
+          "year": 2021,
+          "avgPackageLpa": 17.1,
+          "highestPackageLpa": 87.4,
+          "placementRate": 90.2,
+          "topRecruiters": [
+            "HUL",
+            "Google",
+            "ITC",
+            "Wipro",
+            "TCS"
+          ]
+        },
+        {
+          "year": 2022,
+          "avgPackageLpa": 18.8,
+          "highestPackageLpa": 64.0,
+          "placementRate": 80.3,
+          "topRecruiters": [
+            "TCS",
+            "ITC",
+            "Infosys",
+            "Accenture",
+            "Wipro"
+          ]
+        },
+        {
+          "year": 2023,
+          "avgPackageLpa": 18.9,
+          "highestPackageLpa": 97.4,
+          "placementRate": 82.1,
+          "topRecruiters": [
+            "Accenture",
+            "HUL",
+            "Larsen & Toubro",
+            "Cognizant",
+            "Microsoft"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Birla Institute of Management Guwahati",
+      "slug": "birla-institute-of-management-guwahati",
+      "city": "Guwahati",
+      "state": "Assam",
+      "type": "Government",
+      "stream": "Engineering",
+      "established": 1971,
+      "rating": 3.6,
+      "reviewCount": 122,
+      "annualFee": 40464,
+      "naacGrade": "B++",
+      "nirfRank": 142,
+      "exams": [
+        "MHT CET",
+        "JEE Main"
+      ],
+      "overview": "Birla Institute of Management Guwahati is a government institution located in Guwahati, Assam, established in the field of engineering. The campus is known for its rigorous academics, active student community and strong industry connections that support placements and research.",
+      "campusSizeAcres": 72,
+      "hostelAvailable": false,
+      "courses": [
+        {
+          "name": "B.Tech Computer Science",
+          "degree": "B.Tech",
+          "durationYears": 4,
+          "annualFee": 53000,
+          "seats": 90
+        },
+        {
+          "name": "B.Tech Mechanical",
+          "degree": "B.Tech",
+          "durationYears": 4,
+          "annualFee": 45000,
+          "seats": 120
+        },
+        {
+          "name": "B.Tech Electronics",
+          "degree": "B.Tech",
+          "durationYears": 4,
+          "annualFee": 46000,
+          "seats": 90
+        },
+        {
+          "name": "M.Tech Data Science",
+          "degree": "M.Tech",
+          "durationYears": 2,
+          "annualFee": 42000,
+          "seats": 60
+        }
+      ],
+      "placements": [
+        {
+          "year": 2021,
+          "avgPackageLpa": 11.5,
+          "highestPackageLpa": 65.5,
+          "placementRate": 93.9,
+          "topRecruiters": [
+            "Microsoft",
+            "Flipkart",
+            "Deloitte",
+            "McKinsey",
+            "TCS"
+          ]
+        },
+        {
+          "year": 2022,
+          "avgPackageLpa": 12.6,
+          "highestPackageLpa": 59.0,
+          "placementRate": 95.5,
+          "topRecruiters": [
+            "Cognizant",
+            "Infosys",
+            "McKinsey",
+            "Goldman Sachs",
+            "HUL"
+          ]
+        },
+        {
+          "year": 2023,
+          "avgPackageLpa": 15.0,
+          "highestPackageLpa": 46.1,
+          "placementRate": 92.7,
+          "topRecruiters": [
+            "JP Morgan",
+            "Cisco",
+            "McKinsey",
+            "Accenture",
+            "Goldman Sachs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Christ Technology Chennai",
+      "slug": "christ-technology-chennai",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "type": "Private",
+      "stream": "Commerce",
+      "established": 1977,
+      "rating": 4.7,
+      "reviewCount": 196,
+      "annualFee": 254633,
+      "naacGrade": "A+",
+      "nirfRank": null,
+      "exams": [
+        "University Entrance",
+        "CUET"
+      ],
+      "overview": "Christ Technology Chennai is a private institution located in Chennai, Tamil Nadu, established in the field of commerce. The campus is known for its rigorous academics, active student community and strong industry connections that support placements and research.",
+      "campusSizeAcres": 219,
+      "hostelAvailable": true,
+      "courses": [
+        {
+          "name": "B.Com Honours",
+          "degree": "B.Com",
+          "durationYears": 3,
+          "annualFee": 335000,
+          "seats": 120
+        },
+        {
+          "name": "BBA",
+          "degree": "BBA",
+          "durationYears": 3,
+          "annualFee": 257000,
+          "seats": 240
+        },
+        {
+          "name": "M.Com",
+          "degree": "M.Com",
+          "durationYears": 2,
+          "annualFee": 264000,
+          "seats": 240
+        }
+      ],
+      "placements": [
+        {
+          "year": 2021,
+          "avgPackageLpa": 6.8,
+          "highestPackageLpa": 21.0,
+          "placementRate": 95.5,
+          "topRecruiters": [
+            "Accenture",
+            "Goldman Sachs",
+            "Cognizant",
+            "Microsoft",
+            "TCS"
+          ]
+        },
+        {
+          "year": 2022,
+          "avgPackageLpa": 7.7,
+          "highestPackageLpa": 31.1,
+          "placementRate": 93.7,
+          "topRecruiters": [
+            "Cisco",
+            "HUL",
+            "TCS",
+            "Adobe",
+            "Deloitte"
+          ]
+        },
+        {
+          "year": 2023,
+          "avgPackageLpa": 7.7,
+          "highestPackageLpa": 39.5,
+          "placementRate": 78.0,
+          "topRecruiters": [
+            "ITC",
+            "Deloitte",
+            "Flipkart",
+            "Cisco",
+            "Amazon"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Heritage Management Indore",
+      "slug": "heritage-management-indore",
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "type": "Deemed",
+      "stream": "Commerce",
+      "established": 1981,
+      "rating": 3.8,
+      "reviewCount": 207,
+      "annualFee": 252939,
+      "naacGrade": "B++",
+      "nirfRank": 179,
+      "exams": [
+        "University Entrance",
+        "CUET"
+      ],
+      "overview": "Heritage Management Indore is a deemed institution located in Indore, Madhya Pradesh, established in the field of commerce. The campus is known for its rigorous academics, active student community and strong industry connections that support placements and research.",
+      "campusSizeAcres": 113,
+      "hostelAvailable": true,
+      "courses": [
+        {
+          "name": "B.Com Honours",
+          "degree": "B.Com",
+          "durationYears": 3,
+          "annualFee": 345000,
+          "seats": 90
+        },
+        {
+          "name": "BBA",
+          "degree": "BBA",
+          "durationYears": 3,
+          "annualFee": 295000,
+          "seats": 120
+        },
+        {
+          "name": "M.Com",
+          "degree": "M.Com",
+          "durationYears": 2,
+          "annualFee": 263000,
+          "seats": 60
+        }
+      ],
+      "placements": [
+        {
+          "year": 2021,
+          "avgPackageLpa": 6.7,
+          "highestPackageLpa": 24.3,
+          "placementRate": 93.7,
+          "topRecruiters": [
+            "Cognizant",
+            "JP Morgan",
+            "Bosch",
+            "ITC",
+            "HUL"
+          ]
+        },
+        {
+          "year": 2022,
+          "avgPackageLpa": 7.8,
+          "highestPackageLpa": 35.4,
+          "placementRate": 93.9,
+          "topRecruiters": [
+            "Goldman Sachs",
+            "Amazon",
+            "Wipro",
+            "HUL",
+            "JP Morgan"
+          ]
+        },
+        {
+          "year": 2023,
+          "avgPackageLpa": 7.5,
+          "highestPackageLpa": 43.9,
+          "placementRate": 82.7,
+          "topRecruiters": [
+            "Wipro",
+            "McKinsey",
+            "Deloitte",
+            "Infosys",
+            "Google"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Loyola Engineering Ahmedabad",
+      "slug": "loyola-engineering-ahmedabad",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "type": "Government",
+      "stream": "Engineering",
+      "established": 1967,
+      "rating": 4.3,
+      "reviewCount": 407,
+      "annualFee": 99692,
+      "naacGrade": "B++",
+      "nirfRank": 127,
+      "exams": [
+        "JEE Advanced",
+        "MHT CET"
+      ],
+      "overview": "Loyola Engineering Ahmedabad is a government institution located in Ahmedabad, Gujarat, established in the field of engineering. The campus is known for its rigorous academics, active student community and strong industry connections that support placements and research.",
+      "campusSizeAcres": 350,
+      "hostelAvailable": true,
+      "courses": [
+        {
+          "name": "B.Tech Computer Science",
+          "degree": "B.Tech",
+          "durationYears": 4,
+          "annualFee": 133000,
+          "seats": 60
+        },
+        {
+          "name": "B.Tech Mechanical",
+          "degree": "B.Tech",
+          "durationYears": 4,
+          "annualFee": 126000,
+          "seats": 90
+        },
+        {
+          "name": "B.Tech Electronics",
+          "degree": "B.Tech",
+          "durationYears": 4,
+          "annualFee": 90000,
+          "seats": 240
+        },
+        {
+          "name": "M.Tech Data Science",
+          "degree": "M.Tech",
+          "durationYears": 2,
+          "annualFee": 107000,
+          "seats": 240
+        }
+      ],
+      "placements": [
+        {
+          "year": 2021,
+          "avgPackageLpa": 11.4,
+          "highestPackageLpa": 63.2,
+          "placementRate": 87.1,
+          "topRecruiters": [
+            "Bosch",
+            "HUL",
+            "ITC",
+            "JP Morgan",
+            "Cognizant"
+          ]
+        },
+        {
+          "year": 2022,
+          "avgPackageLpa": 13.3,
+          "highestPackageLpa": 68.6,
+          "placementRate": 88.1,
+          "topRecruiters": [
+            "ITC",
+            "Bosch",
+            "Goldman Sachs",
+            "Larsen & Toubro",
+            "KPMG"
+          ]
+        },
+        {
+          "year": 2023,
+          "avgPackageLpa": 13.2,
+          "highestPackageLpa": 49.4,
+          "placementRate": 90.8,
+          "topRecruiters": [
+            "HUL",
+            "Larsen & Toubro",
+            "McKinsey",
+            "Accenture",
+            "Bosch"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "St. Xavier's Management Kanpur",
+      "slug": "st-xavier's-management-kanpur",
+      "city": "Kanpur",
+      "state": "Uttar Pradesh",
+      "type": "Private",
+      "stream": "Engineering",
+      "established": 1969,
+      "rating": 3.6,
+      "reviewCount": 236,
+      "annualFee": 433195,
+      "naacGrade": "A+",
+      "nirfRank": null,
+      "exams": [
+        "VITEEE",
+        "MHT CET"
+      ],
+      "overview": "St. Xavier's Management Kanpur is a private institution located in Kanpur, Uttar Pradesh, established in the field of engineering. The campus is known for its rigorous academics, active student community and strong industry connections that support placements and research.",
+      "campusSizeAcres": 184,
+      "hostelAvailable": true,
+      "courses": [
+        {
+          "name": "B.Tech Computer Science",
+          "degree": "B.Tech",
+          "durationYears": 4,
+          "annualFee": 454000,
+          "seats": 90
+        },
+        {
+          "name": "B.Tech Mechanical",
+          "degree": "B.Tech",
+          "durationYears": 4,
+          "annualFee": 563000,
+          "seats": 180
+        },
+        {
+          "name": "B.Tech Electronics",
+          "degree": "B.Tech",
+          "durationYears": 4,
+          "annualFee": 581000,
+          "seats": 240
+        },
+        {
+          "name": "M.Tech Data Science",
+          "degree": "M.Tech",
+          "durationYears": 2,
+          "annualFee": 592000,
+          "seats": 60
+        }
+      ],
+      "placements": [
+        {
+          "year": 2021,
+          "avgPackageLpa": 12.9,
+          "highestPackageLpa": 68.3,
+          "placementRate": 85.6,
+          "topRecruiters": [
+            "Google",
+            "Flipkart",
+            "Wipro",
+            "Adobe",
+            "Cisco"
+          ]
+        },
+        {
+          "year": 2022,
+          "avgPackageLpa": 13.1,
+          "highestPackageLpa": 68.2,
+          "placementRate": 94.0,
+          "topRecruiters": [
+            "McKinsey",
+            "Larsen & Toubro",
+            "Cognizant",
+            "Accenture",
+            "Cisco"
+          ]
+        },
+        {
+          "year": 2023,
+          "avgPackageLpa": 13.9,
+          "highestPackageLpa": 57.9,
+          "placementRate": 91.4,
+          "topRecruiters": [
+            "Adobe",
+            "Goldman Sachs",
+            "Bosch",
+            "Infosys",
+            "Google"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "National Institute of Higher Studies Mumbai",
+      "slug": "national-institute-of-higher-studies-mumbai",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "type": "Government",
+      "stream": "Law",
+      "established": 1975,
+      "rating": 3.8,
+      "reviewCount": 148,
+      "annualFee": 100515,
+      "naacGrade": "B++",
+      "nirfRank": 84,
+      "exams": [
+        "AILET",
+        "LSAT India"
+      ],
+      "overview": "National Institute of Higher Studies Mumbai is a government institution located in Mumbai, Maharashtra, established in the field of law. The campus is known for its rigorous academics, active student community and strong industry connections that support placements and research.",
+      "campusSizeAcres": 400,
+      "hostelAvailable": true,
+      "courses": [
+        {
+          "name": "BA LLB",
+          "degree": "LLB",
+          "durationYears": 5,
+          "annualFee": 105000,
+          "seats": 60
+        },
+        {
+          "name": "BBA LLB",
+          "degree": "LLB",
+          "durationYears": 5,
+          "annualFee": 108000,
+          "seats": 240
+        },
+        {
+          "name": "LLM Corporate Law",
+          "degree": "LLM",
+          "durationYears": 1,
+          "annualFee": 83000,
+          "seats": 120
+        }
+      ],
+      "placements": [
+        {
+          "year": 2021,
+          "avgPackageLpa": 10.4,
+          "highestPackageLpa": 33.3,
+          "placementRate": 97.1,
+          "topRecruiters": [
+            "Microsoft",
+            "Google",
+            "McKinsey",
+            "Deloitte",
+            "KPMG"
+          ]
+        },
+        {
+          "year": 2022,
+          "avgPackageLpa": 12.2,
+          "highestPackageLpa": 45.3,
+          "placementRate": 87.5,
+          "topRecruiters": [
+            "TCS",
+            "KPMG",
+            "Deloitte",
+            "Bosch",
+            "Accenture"
+          ]
+        },
+        {
+          "year": 2023,
+          "avgPackageLpa": 13.4,
+          "highestPackageLpa": 46.9,
+          "placementRate": 90.1,
+          "topRecruiters": [
+            "TCS",
+            "Goldman Sachs",
+            "Wipro",
+            "Cognizant",
+            "Google"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Christ Science Roorkee",
+      "slug": "christ-science-roorkee",
+      "city": "Roorkee",
+      "state": "Uttarakhand",
+      "type": "Government",
+      "stream": "Medical",
+      "established": 1974,
+      "rating": 4.4,
+      "reviewCount": 475,
+      "annualFee": 117607,
+      "naacGrade": "B+",
+      "nirfRank": null,
+      "exams": [
+        "AIIMS",
+        "JIPMER"
+      ],
+      "overview": "Christ Science Roorkee is a government institution located in Roorkee, Uttarakhand, established in the field of medical. The campus is known for its rigorous academics, active student community and strong industry connections that support placements and research.",
+      "campusSizeAcres": 353,
+      "hostelAvailable": true,
+      "courses": [
+        {
+          "name": "MBBS",
+          "degree": "MBBS",
+          "durationYears": 5,
+          "annualFee": 129000,
+          "seats": 120
+        },
+        {
+          "name": "BDS",
+          "degree": "BDS",
+          "durationYears": 5,
+          "annualFee": 94000,
+          "seats": 180
+        },
+        {
+          "name": "B.Sc Nursing",
+          "degree": "B.Sc",
+          "durationYears": 4,
+          "annualFee": 152000,
+          "seats": 60
+        },
+        {
+          "name": "MD General Medicine",
+          "degree": "MD",
+          "durationYears": 3,
+          "annualFee": 124000,
+          "seats": 120
+        }
+      ],
+      "placements": [
+        {
+          "year": 2021,
+          "avgPackageLpa": 9.2,
+          "highestPackageLpa": 50.5,
+          "placementRate": 92.1,
+          "topRecruiters": [
+            "Cisco",
+            "Goldman Sachs",
+            "HUL",
+            "Accenture",
+            "Larsen & Toubro"
+          ]
+        },
+        {
+          "year": 2022,
+          "avgPackageLpa": 9.7,
+          "highestPackageLpa": 53.1,
+          "placementRate": 89.8,
+          "topRecruiters": [
+            "JP Morgan",
+            "McKinsey",
+            "Amazon",
+            "Accenture",
+            "Bosch"
+          ]
+        },
+        {
+          "year": 2023,
+          "avgPackageLpa": 9.9,
+          "highestPackageLpa": 43.5,
+          "placementRate": 90.2,
+          "topRecruiters": [
+            "Adobe",
+            "JP Morgan",
+            "Google",
+            "Larsen & Toubro",
+            "KPMG"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "St. Xavier's Management Manipal",
+      "slug": "st-xavier's-management-manipal",
+      "city": "Manipal",
+      "state": "Karnataka",
+      "type": "Private",
+      "stream": "Management",
+      "established": 2011,
+      "rating": 4.2,
+      "reviewCount": 181,
+      "annualFee": 296621,
+      "naacGrade": "B+",
+      "nirfRank": null,
+      "exams": [
+        "CAT",
+        "XAT"
+      ],
+      "overview": "St. Xavier's Management Manipal is a private institution located in Manipal, Karnataka, established in the field of management. The campus is known for its rigorous academics, active student community and strong industry connections that support placements and research.",
+      "campusSizeAcres": 383,
+      "hostelAvailable": true,
+      "courses": [
+        {
+          "name": "MBA Finance",
+          "degree": "MBA",
+          "durationYears": 2,
+          "annualFee": 336000,
+          "seats": 90
+        },
+        {
+          "name": "MBA Marketing",
+          "degree": "MBA",
+          "durationYears": 2,
+          "annualFee": 360000,
+          "seats": 180
+        },
+        {
+          "name": "BBA",
+          "degree": "BBA",
+          "durationYears": 3,
+          "annualFee": 317000,
+          "seats": 60
+        },
+        {
+          "name": "PGDM",
+          "degree": "PGDM",
+          "durationYears": 2,
+          "annualFee": 253000,
+          "seats": 90
+        }
+      ],
+      "placements": [
+        {
+          "year": 2021,
+          "avgPackageLpa": 15.7,
+          "highestPackageLpa": 58.6,
+          "placementRate": 91.3,
+          "topRecruiters": [
+            "Flipkart",
+            "Larsen & Toubro",
+            "ITC",
+            "HUL",
+            "Cognizant"
+          ]
+        },
+        {
+          "year": 2022,
+          "avgPackageLpa": 17.0,
+          "highestPackageLpa": 89.0,
+          "placementRate": 84.6,
+          "topRecruiters": [
+            "Bosch",
+            "Accenture",
+            "Wipro",
+            "KPMG",
+            "McKinsey"
+          ]
+        },
+        {
+          "year": 2023,
+          "avgPackageLpa": 17.2,
+          "highestPackageLpa": 61.5,
+          "placementRate": 80.4,
+          "topRecruiters": [
+            "ITC",
+            "Goldman Sachs",
+            "Deloitte",
+            "Cognizant",
+            "Larsen & Toubro"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Heritage Management Coimbatore",
+      "slug": "heritage-management-coimbatore",
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "type": "Government",
+      "stream": "Medical",
+      "established": 1966,
+      "rating": 3.7,
+      "reviewCount": 194,
+      "annualFee": 149134,
+      "naacGrade": "A++",
+      "nirfRank": null,
+      "exams": [
+        "AIIMS",
+        "NEET UG"
+      ],
+      "overview": "Heritage Management Coimbatore is a government institution located in Coimbatore, Tamil Nadu, established in the field of medical. The campus is known for its rigorous academics, active student community and strong industry connections that support placements and research.",
+      "campusSizeAcres": 42,
+      "hostelAvailable": true,
+      "courses": [
+        {
+          "name": "MBBS",
+          "degree": "MBBS",
+          "durationYears": 5,
+          "annualFee": 181000,
+          "seats": 90
+        },
+        {
+          "name": "BDS",
+          "degree": "BDS",
+          "durationYears": 5,
+          "annualFee": 176000,
+          "seats": 180
+        },
+        {
+          "name": "B.Sc Nursing",
+          "degree": "B.Sc",
+          "durationYears": 4,
+          "annualFee": 128000,
+          "seats": 60
+        },
+        {
+          "name": "MD General Medicine",
+          "degree": "MD",
+          "durationYears": 3,
+          "annualFee": 170000,
+          "seats": 180
+        }
+      ],
+      "placements": [
+        {
+          "year": 2021,
+          "avgPackageLpa": 9.0,
+          "highestPackageLpa": 36.2,
+          "placementRate": 97.3,
+          "topRecruiters": [
+            "Accenture",
+            "Larsen & Toubro",
+            "TCS",
+            "Amazon",
+            "Adobe"
+          ]
+        },
+        {
+          "year": 2022,
+          "avgPackageLpa": 9.7,
+          "highestPackageLpa": 45.9,
+          "placementRate": 91.7,
+          "topRecruiters": [
+            "Infosys",
+            "Cognizant",
+            "Wipro",
+            "Amazon",
+            "McKinsey"
+          ]
+        },
+        {
+          "year": 2023,
+          "avgPackageLpa": 9.6,
+          "highestPackageLpa": 50.8,
+          "placementRate": 90.1,
+          "topRecruiters": [
+            "Cognizant",
+            "McKinsey",
+            "HUL",
+            "Adobe",
+            "Bosch"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Birla Institute of Engineering Kanpur",
+      "slug": "birla-institute-of-engineering-kanpur",
+      "city": "Kanpur",
+      "state": "Uttar Pradesh",
+      "type": "Private",
+      "stream": "Law",
+      "established": 2002,
+      "rating": 3.5,
+      "reviewCount": 90,
+      "annualFee": 448125,
+      "naacGrade": "A+",
+      "nirfRank": null,
+      "exams": [
+        "AILET",
+        "CLAT"
+      ],
+      "overview": "Birla Institute of Engineering Kanpur is a private institution located in Kanpur, Uttar Pradesh, established in the field of law. The campus is known for its rigorous academics, active student community and strong industry connections that support placements and research.",
+      "campusSizeAcres": 95,
+      "hostelAvailable": true,
+      "courses": [
+        {
+          "name": "BA LLB",
+          "degree": "LLB",
+          "durationYears": 5,
+          "annualFee": 506000,
+          "seats": 90
+        },
+        {
+          "name": "BBA LLB",
+          "degree": "LLB",
+          "durationYears": 5,
+          "annualFee": 359000,
+          "seats": 180
+        },
+        {
+          "name": "LLM Corporate Law",
+          "degree": "LLM",
+          "durationYears": 1,
+          "annualFee": 543000,
+          "seats": 180
+        }
+      ],
+      "placements": [
+        {
+          "year": 2021,
+          "avgPackageLpa": 10.5,
+          "highestPackageLpa": 38.8,
+          "placementRate": 92.1,
+          "topRecruiters": [
+            "Bosch",
+            "Amazon",
+            "McKinsey",
+            "Accenture",
+            "Deloitte"
+          ]
+        },
+        {
+          "year": 2022,
+          "avgPackageLpa": 11.7,
+          "highestPackageLpa": 54.2,
+          "placementRate": 91.0,
+          "topRecruiters": [
+            "Accenture",
+            "Infosys",
+            "Amazon",
+            "Microsoft",
+            "Goldman Sachs"
+          ]
+        },
+        {
+          "year": 2023,
+          "avgPackageLpa": 13.5,
+          "highestPackageLpa": 64.6,
+          "placementRate": 94.5,
+          "topRecruiters": [
+            "Wipro",
+            "Bosch",
+            "TCS",
+            "KPMG",
+            "Cognizant"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Symbiosis Engineering Roorkee",
+      "slug": "symbiosis-engineering-roorkee",
+      "city": "Roorkee",
+      "state": "Uttarakhand",
+      "type": "Deemed",
+      "stream": "Commerce",
+      "established": 2011,
+      "rating": 4.2,
+      "reviewCount": 261,
+      "annualFee": 141087,
+      "naacGrade": "A",
+      "nirfRank": 155,
+      "exams": [
+        "CUET",
+        "University Entrance"
+      ],
+      "overview": "Symbiosis Engineering Roorkee is a deemed institution located in Roorkee, Uttarakhand, established in the field of commerce. The campus is known for its rigorous academics, active student community and strong industry connections that support placements and research.",
+      "campusSizeAcres": 132,
+      "hostelAvailable": true,
+      "courses": [
+        {
+          "name": "B.Com Honours",
+          "degree": "B.Com",
+          "durationYears": 3,
+          "annualFee": 183000,
+          "seats": 240
+        },
+        {
+          "name": "BBA",
+          "degree": "BBA",
+          "durationYears": 3,
+          "annualFee": 162000,
+          "seats": 60
+        },
+        {
+          "name": "M.Com",
+          "degree": "M.Com",
+          "durationYears": 2,
+          "annualFee": 197000,
+          "seats": 120
+        }
+      ],
+      "placements": [
+        {
+          "year": 2021,
+          "avgPackageLpa": 7.1,
+          "highestPackageLpa": 37.6,
+          "placementRate": 81.5,
+          "topRecruiters": [
+            "HUL",
+            "Bosch",
+            "Accenture",
+            "Goldman Sachs",
+            "Cisco"
+          ]
+        },
+        {
+          "year": 2022,
+          "avgPackageLpa": 7.8,
+          "highestPackageLpa": 34.9,
+          "placementRate": 79.8,
+          "topRecruiters": [
+            "Flipkart",
+            "Cisco",
+            "JP Morgan",
+            "ITC",
+            "TCS"
+          ]
+        },
+        {
+          "year": 2023,
+          "avgPackageLpa": 8.7,
+          "highestPackageLpa": 34.7,
+          "placementRate": 91.9,
+          "topRecruiters": [
+            "Wipro",
+            "Adobe",
+            "ITC",
+            "Microsoft",
+            "Bosch"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Symbiosis Management Indore",
+      "slug": "symbiosis-management-indore",
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "type": "Government",
+      "stream": "Engineering",
+      "established": 1955,
+      "rating": 4.1,
+      "reviewCount": 376,
+      "annualFee": 141259,
+      "naacGrade": "B+",
+      "nirfRank": 119,
+      "exams": [
+        "JEE Main",
+        "JEE Advanced"
+      ],
+      "overview": "Symbiosis Management Indore is a government institution located in Indore, Madhya Pradesh, established in the field of engineering. The campus is known for its rigorous academics, active student community and strong industry connections that support placements and research.",
+      "campusSizeAcres": 280,
+      "hostelAvailable": true,
+      "courses": [
+        {
+          "name": "B.Tech Computer Science",
+          "degree": "B.Tech",
+          "durationYears": 4,
+          "annualFee": 177000,
+          "seats": 180
+        },
+        {
+          "name": "B.Tech Mechanical",
+          "degree": "B.Tech",
+          "durationYears": 4,
+          "annualFee": 177000,
+          "seats": 90
+        },
+        {
+          "name": "B.Tech Electronics",
+          "degree": "B.Tech",
+          "durationYears": 4,
+          "annualFee": 135000,
+          "seats": 90
+        },
+        {
+          "name": "M.Tech Data Science",
+          "degree": "M.Tech",
+          "durationYears": 2,
+          "annualFee": 191000,
+          "seats": 180
+        }
+      ],
+      "placements": [
+        {
+          "year": 2021,
+          "avgPackageLpa": 12.9,
+          "highestPackageLpa": 57.5,
+          "placementRate": 78.6,
+          "topRecruiters": [
+            "Cognizant",
+            "McKinsey",
+            "Goldman Sachs",
+            "Wipro",
+            "Google"
+          ]
+        },
+        {
+          "year": 2022,
+          "avgPackageLpa": 13.1,
+          "highestPackageLpa": 43.0,
+          "placementRate": 97.8,
+          "topRecruiters": [
+            "TCS",
+            "Bosch",
+            "Cognizant",
+            "Infosys",
+            "Larsen & Toubro"
+          ]
+        },
+        {
+          "year": 2023,
+          "avgPackageLpa": 15.1,
+          "highestPackageLpa": 58.5,
+          "placementRate": 92.1,
+          "topRecruiters": [
+            "Cisco",
+            "Larsen & Toubro",
+            "KPMG",
+            "McKinsey",
+            "Bosch"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Christ Science Hyderabad",
+      "slug": "christ-science-hyderabad",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "type": "Deemed",
+      "stream": "Arts & Science",
+      "established": 2004,
+      "rating": 3.5,
+      "reviewCount": 444,
+      "annualFee": 346499,
+      "naacGrade": "B++",
+      "nirfRank": 88,
+      "exams": [
+        "CUET",
+        "University Entrance"
+      ],
+      "overview": "Christ Science Hyderabad is a deemed institution located in Hyderabad, Telangana, established in the field of arts & science. The campus is known for its rigorous academics, active student community and strong industry connections that support placements and research.",
+      "campusSizeAcres": 386,
+      "hostelAvailable": true,
+      "courses": [
+        {
+          "name": "B.Sc Physics",
+          "degree": "B.Sc",
+          "durationYears": 3,
+          "annualFee": 399000,
+          "seats": 180
+        },
+        {
+          "name": "BA Economics",
+          "degree": "BA",
+          "durationYears": 3,
+          "annualFee": 457000,
+          "seats": 180
+        },
+        {
+          "name": "B.Sc Computer Science",
+          "degree": "B.Sc",
+          "durationYears": 3,
+          "annualFee": 389000,
+          "seats": 120
+        }
+      ],
+      "placements": [
+        {
+          "year": 2021,
+          "avgPackageLpa": 5.8,
+          "highestPackageLpa": 30.7,
+          "placementRate": 85.5,
+          "topRecruiters": [
+            "JP Morgan",
+            "Deloitte",
+            "McKinsey",
+            "Adobe",
+            "ITC"
+          ]
+        },
+        {
+          "year": 2022,
+          "avgPackageLpa": 6.9,
+          "highestPackageLpa": 29.2,
+          "placementRate": 84.4,
+          "topRecruiters": [
+            "Larsen & Toubro",
+            "Adobe",
+            "KPMG",
+            "Infosys",
+            "Cognizant"
+          ]
+        },
+        {
+          "year": 2023,
+          "avgPackageLpa": 7.6,
+          "highestPackageLpa": 25.7,
+          "placementRate": 97.3,
+          "topRecruiters": [
+            "JP Morgan",
+            "TCS",
+            "Bosch",
+            "KPMG",
+            "ITC"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Christ Science Hyderabad U",
+      "slug": "christ-science-hyderabad-u",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "type": "Government",
+      "stream": "Engineering",
+      "established": 1980,
+      "rating": 4.3,
+      "reviewCount": 372,
+      "annualFee": 101537,
+      "naacGrade": "A++",
+      "nirfRank": 85,
+      "exams": [
+        "BITSAT",
+        "VITEEE"
+      ],
+      "overview": "Christ Science Hyderabad U is a government institution located in Hyderabad, Telangana, established in the field of engineering. The campus is known for its rigorous academics, active student community and strong industry connections that support placements and research.",
+      "campusSizeAcres": 292,
+      "hostelAvailable": false,
+      "courses": [
+        {
+          "name": "B.Tech Computer Science",
+          "degree": "B.Tech",
+          "durationYears": 4,
+          "annualFee": 85000,
+          "seats": 120
+        },
+        {
+          "name": "B.Tech Mechanical",
+          "degree": "B.Tech",
+          "durationYears": 4,
+          "annualFee": 141000,
+          "seats": 60
+        },
+        {
+          "name": "B.Tech Electronics",
+          "degree": "B.Tech",
+          "durationYears": 4,
+          "annualFee": 107000,
+          "seats": 60
+        },
+        {
+          "name": "M.Tech Data Science",
+          "degree": "M.Tech",
+          "durationYears": 2,
+          "annualFee": 127000,
+          "seats": 60
+        }
+      ],
+      "placements": [
+        {
+          "year": 2021,
+          "avgPackageLpa": 11.9,
+          "highestPackageLpa": 60.5,
+          "placementRate": 96.1,
+          "topRecruiters": [
+            "Microsoft",
+            "JP Morgan",
+            "Cognizant",
+            "Wipro",
+            "Flipkart"
+          ]
+        },
+        {
+          "year": 2022,
+          "avgPackageLpa": 12.6,
+          "highestPackageLpa": 43.3,
+          "placementRate": 88.6,
+          "topRecruiters": [
+            "KPMG",
+            "Goldman Sachs",
+            "Cognizant",
+            "ITC",
+            "Amazon"
+          ]
+        },
+        {
+          "year": 2023,
+          "avgPackageLpa": 14.2,
+          "highestPackageLpa": 58.9,
+          "placementRate": 91.7,
+          "topRecruiters": [
+            "Larsen & Toubro",
+            "KPMG",
+            "Infosys",
+            "McKinsey",
+            "Bosch"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Loyola Management Jaipur",
+      "slug": "loyola-management-jaipur",
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "type": "Deemed",
+      "stream": "Commerce",
+      "established": 1989,
+      "rating": 3.8,
+      "reviewCount": 120,
+      "annualFee": 356246,
+      "naacGrade": "A++",
+      "nirfRank": 114,
+      "exams": [
+        "University Entrance",
+        "IPMAT"
+      ],
+      "overview": "Loyola Management Jaipur is a deemed institution located in Jaipur, Rajasthan, established in the field of commerce. The campus is known for its rigorous academics, active student community and strong industry connections that support placements and research.",
+      "campusSizeAcres": 342,
+      "hostelAvailable": true,
+      "courses": [
+        {
+          "name": "B.Com Honours",
+          "degree": "B.Com",
+          "durationYears": 3,
+          "annualFee": 432000,
+          "seats": 180
+        },
+        {
+          "name": "BBA",
+          "degree": "BBA",
+          "durationYears": 3,
+          "annualFee": 465000,
+          "seats": 90
+        },
+        {
+          "name": "M.Com",
+          "degree": "M.Com",
+          "durationYears": 2,
+          "annualFee": 498000,
+          "seats": 180
+        }
+      ],
+      "placements": [
+        {
+          "year": 2021,
+          "avgPackageLpa": 6.4,
+          "highestPackageLpa": 26.5,
+          "placementRate": 85.2,
+          "topRecruiters": [
+            "Wipro",
+            "Cognizant",
+            "Google",
+            "Adobe",
+            "Accenture"
+          ]
+        },
+        {
+          "year": 2022,
+          "avgPackageLpa": 6.8,
+          "highestPackageLpa": 38.0,
+          "placementRate": 93.6,
+          "topRecruiters": [
+            "Microsoft",
+            "Larsen & Toubro",
+            "Wipro",
+            "McKinsey",
+            "Flipkart"
+          ]
+        },
+        {
+          "year": 2023,
+          "avgPackageLpa": 7.7,
+          "highestPackageLpa": 27.5,
+          "placementRate": 83.0,
+          "topRecruiters": [
+            "Infosys",
+            "TCS",
+            "Microsoft",
+            "Wipro",
+            "Bosch"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Lovely Professional Science Kharagpur",
+      "slug": "lovely-professional-science-kharagpur",
+      "city": "Kharagpur",
+      "state": "West Bengal",
+      "type": "Government",
+      "stream": "Engineering",
+      "established": 1967,
+      "rating": 4.0,
+      "reviewCount": 107,
+      "annualFee": 78680,
+      "naacGrade": "B+",
+      "nirfRank": 94,
+      "exams": [
+        "JEE Advanced",
+        "BITSAT"
+      ],
+      "overview": "Lovely Professional Science Kharagpur is a government institution located in Kharagpur, West Bengal, established in the field of engineering. The campus is known for its rigorous academics, active student community and strong industry connections that support placements and research.",
+      "campusSizeAcres": 261,
+      "hostelAvailable": true,
+      "courses": [
+        {
+          "name": "B.Tech Computer Science",
+          "degree": "B.Tech",
+          "durationYears": 4,
+          "annualFee": 76000,
+          "seats": 120
+        },
+        {
+          "name": "B.Tech Mechanical",
+          "degree": "B.Tech",
+          "durationYears": 4,
+          "annualFee": 100000,
+          "seats": 180
+        },
+        {
+          "name": "B.Tech Electronics",
+          "degree": "B.Tech",
+          "durationYears": 4,
+          "annualFee": 108000,
+          "seats": 90
+        },
+        {
+          "name": "M.Tech Data Science",
+          "degree": "M.Tech",
+          "durationYears": 2,
+          "annualFee": 98000,
+          "seats": 90
+        }
+      ],
+      "placements": [
+        {
+          "year": 2021,
+          "avgPackageLpa": 12.9,
+          "highestPackageLpa": 66.7,
+          "placementRate": 97.6,
+          "topRecruiters": [
+            "ITC",
+            "Flipkart",
+            "Amazon",
+            "Adobe",
+            "Google"
+          ]
+        },
+        {
+          "year": 2022,
+          "avgPackageLpa": 12.3,
+          "highestPackageLpa": 41.5,
+          "placementRate": 85.4,
+          "topRecruiters": [
+            "Accenture",
+            "KPMG",
+            "Adobe",
+            "Flipkart",
+            "TCS"
+          ]
+        },
+        {
+          "year": 2023,
+          "avgPackageLpa": 14.4,
+          "highestPackageLpa": 63.6,
+          "placementRate": 90.4,
+          "topRecruiters": [
+            "ITC",
+            "JP Morgan",
+            "McKinsey",
+            "Amazon",
+            "Bosch"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Galgotias Higher Studies Kanpur",
+      "slug": "galgotias-higher-studies-kanpur",
+      "city": "Kanpur",
+      "state": "Uttar Pradesh",
+      "type": "Government",
+      "stream": "Commerce",
+      "established": 1986,
+      "rating": 3.5,
+      "reviewCount": 99,
+      "annualFee": 58320,
+      "naacGrade": "A++",
+      "nirfRank": null,
+      "exams": [
+        "IPMAT",
+        "University Entrance"
+      ],
+      "overview": "Galgotias Higher Studies Kanpur is a government institution located in Kanpur, Uttar Pradesh, established in the field of commerce. The campus is known for its rigorous academics, active student community and strong industry connections that support placements and research.",
+      "campusSizeAcres": 204,
+      "hostelAvailable": true,
+      "courses": [
+        {
+          "name": "B.Com Honours",
+          "degree": "B.Com",
+          "durationYears": 3,
+          "annualFee": 72000,
+          "seats": 240
+        },
+        {
+          "name": "BBA",
+          "degree": "BBA",
+          "durationYears": 3,
+          "annualFee": 61000,
+          "seats": 90
+        },
+        {
+          "name": "M.Com",
+          "degree": "M.Com",
+          "durationYears": 2,
+          "annualFee": 77000,
+          "seats": 60
+        }
+      ],
+      "placements": [
+        {
+          "year": 2021,
+          "avgPackageLpa": 7.5,
+          "highestPackageLpa": 36.4,
+          "placementRate": 96.8,
+          "topRecruiters": [
+            "Accenture",
+            "Microsoft",
+            "Flipkart",
+            "Deloitte",
+            "Bosch"
+          ]
+        },
+        {
+          "year": 2022,
+          "avgPackageLpa": 7.5,
+          "highestPackageLpa": 27.8,
+          "placementRate": 85.3,
+          "topRecruiters": [
+            "Flipkart",
+            "ITC",
+            "Cognizant",
+            "Microsoft",
+            "Adobe"
+          ]
+        },
+        {
+          "year": 2023,
+          "avgPackageLpa": 7.8,
+          "highestPackageLpa": 46.1,
+          "placementRate": 97.0,
+          "topRecruiters": [
+            "Bosch",
+            "Amazon",
+            "Deloitte",
+            "Google",
+            "Microsoft"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Sri Engineering Ahmedabad",
+      "slug": "sri-engineering-ahmedabad",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "type": "Government",
+      "stream": "Medical",
+      "established": 2007,
+      "rating": 4.2,
+      "reviewCount": 485,
+      "annualFee": 48992,
+      "naacGrade": "A+",
+      "nirfRank": null,
+      "exams": [
+        "JIPMER",
+        "NEET UG"
+      ],
+      "overview": "Sri Engineering Ahmedabad is a government institution located in Ahmedabad, Gujarat, established in the field of medical. The campus is known for its rigorous academics, active student community and strong industry connections that support placements and research.",
+      "campusSizeAcres": 156,
+      "hostelAvailable": true,
+      "courses": [
+        {
+          "name": "MBBS",
+          "degree": "MBBS",
+          "durationYears": 5,
+          "annualFee": 43000,
+          "seats": 90
+        },
+        {
+          "name": "BDS",
+          "degree": "BDS",
+          "durationYears": 5,
+          "annualFee": 55000,
+          "seats": 90
+        },
+        {
+          "name": "B.Sc Nursing",
+          "degree": "B.Sc",
+          "durationYears": 4,
+          "annualFee": 42000,
+          "seats": 60
+        },
+        {
+          "name": "MD General Medicine",
+          "degree": "MD",
+          "durationYears": 3,
+          "annualFee": 43000,
+          "seats": 120
+        }
+      ],
+      "placements": [
+        {
+          "year": 2021,
+          "avgPackageLpa": 9.5,
+          "highestPackageLpa": 35.3,
+          "placementRate": 84.5,
+          "topRecruiters": [
+            "Goldman Sachs",
+            "Accenture",
+            "Microsoft",
+            "Infosys",
+            "Cisco"
+          ]
+        },
+        {
+          "year": 2022,
+          "avgPackageLpa": 9.8,
+          "highestPackageLpa": 51.3,
+          "placementRate": 87.5,
+          "topRecruiters": [
+            "Flipkart",
+            "HUL",
+            "TCS",
+            "Bosch",
+            "McKinsey"
+          ]
+        },
+        {
+          "year": 2023,
+          "avgPackageLpa": 11.4,
+          "highestPackageLpa": 35.7,
+          "placementRate": 93.7,
+          "topRecruiters": [
+            "HUL",
+            "Wipro",
+            "Bosch",
+            "Google",
+            "Microsoft"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Christ Technology Roorkee",
+      "slug": "christ-technology-roorkee",
+      "city": "Roorkee",
+      "state": "Uttarakhand",
+      "type": "Private",
+      "stream": "Law",
+      "established": 1975,
+      "rating": 4.7,
+      "reviewCount": 351,
+      "annualFee": 382554,
+      "naacGrade": "A+",
+      "nirfRank": null,
+      "exams": [
+        "AILET",
+        "LSAT India"
+      ],
+      "overview": "Christ Technology Roorkee is a private institution located in Roorkee, Uttarakhand, established in the field of law. The campus is known for its rigorous academics, active student community and strong industry connections that support placements and research.",
+      "campusSizeAcres": 210,
+      "hostelAvailable": true,
+      "courses": [
+        {
+          "name": "BA LLB",
+          "degree": "LLB",
+          "durationYears": 5,
+          "annualFee": 427000,
+          "seats": 180
+        },
+        {
+          "name": "BBA LLB",
+          "degree": "LLB",
+          "durationYears": 5,
+          "annualFee": 422000,
+          "seats": 180
+        },
+        {
+          "name": "LLM Corporate Law",
+          "degree": "LLM",
+          "durationYears": 1,
+          "annualFee": 328000,
+          "seats": 60
+        }
+      ],
+      "placements": [
+        {
+          "year": 2021,
+          "avgPackageLpa": 11.8,
+          "highestPackageLpa": 58.4,
+          "placementRate": 93.4,
+          "topRecruiters": [
+            "Deloitte",
+            "Cisco",
+            "Bosch",
+            "McKinsey",
+            "KPMG"
+          ]
+        },
+        {
+          "year": 2022,
+          "avgPackageLpa": 11.5,
+          "highestPackageLpa": 50.1,
+          "placementRate": 86.3,
+          "topRecruiters": [
+            "TCS",
+            "JP Morgan",
+            "Cisco",
+            "KPMG",
+            "Accenture"
+          ]
+        },
+        {
+          "year": 2023,
+          "avgPackageLpa": 12.4,
+          "highestPackageLpa": 42.9,
+          "placementRate": 96.5,
+          "topRecruiters": [
+            "Amazon",
+            "Cognizant",
+            "KPMG",
+            "ITC",
+            "Cisco"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Manipal Academy of Science Kharagpur",
+      "slug": "manipal-academy-of-science-kharagpur",
+      "city": "Kharagpur",
+      "state": "West Bengal",
+      "type": "Deemed",
+      "stream": "Engineering",
+      "established": 1962,
+      "rating": 3.9,
+      "reviewCount": 250,
+      "annualFee": 267241,
+      "naacGrade": "A",
+      "nirfRank": 171,
+      "exams": [
+        "JEE Main",
+        "BITSAT"
+      ],
+      "overview": "Manipal Academy of Science Kharagpur is a deemed institution located in Kharagpur, West Bengal, established in the field of engineering. The campus is known for its rigorous academics, active student community and strong industry connections that support placements and research.",
+      "campusSizeAcres": 322,
+      "hostelAvailable": true,
+      "courses": [
+        {
+          "name": "B.Tech Computer Science",
+          "degree": "B.Tech",
+          "durationYears": 4,
+          "annualFee": 230000,
+          "seats": 240
+        },
+        {
+          "name": "B.Tech Mechanical",
+          "degree": "B.Tech",
+          "durationYears": 4,
+          "annualFee": 247000,
+          "seats": 180
+        },
+        {
+          "name": "B.Tech Electronics",
+          "degree": "B.Tech",
+          "durationYears": 4,
+          "annualFee": 249000,
+          "seats": 60
+        },
+        {
+          "name": "M.Tech Data Science",
+          "degree": "M.Tech",
+          "durationYears": 2,
+          "annualFee": 269000,
+          "seats": 240
+        }
+      ],
+      "placements": [
+        {
+          "year": 2021,
+          "avgPackageLpa": 11.7,
+          "highestPackageLpa": 61.9,
+          "placementRate": 89.5,
+          "topRecruiters": [
+            "Cisco",
+            "ITC",
+            "KPMG",
+            "Google",
+            "Accenture"
+          ]
+        },
+        {
+          "year": 2022,
+          "avgPackageLpa": 11.7,
+          "highestPackageLpa": 44.7,
+          "placementRate": 93.2,
+          "topRecruiters": [
+            "JP Morgan",
+            "Flipkart",
+            "Google",
+            "Goldman Sachs",
+            "Infosys"
+          ]
+        },
+        {
+          "year": 2023,
+          "avgPackageLpa": 14.1,
+          "highestPackageLpa": 59.3,
+          "placementRate": 80.8,
+          "topRecruiters": [
+            "Google",
+            "Amazon",
+            "HUL",
+            "Deloitte",
+            "Adobe"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Amity Science Vellore",
+      "slug": "amity-science-vellore",
+      "city": "Vellore",
+      "state": "Tamil Nadu",
+      "type": "Private",
+      "stream": "Law",
+      "established": 1993,
+      "rating": 4.7,
+      "reviewCount": 83,
+      "annualFee": 320070,
+      "naacGrade": "A++",
+      "nirfRank": null,
+      "exams": [
+        "LSAT India",
+        "CLAT"
+      ],
+      "overview": "Amity Science Vellore is a private institution located in Vellore, Tamil Nadu, established in the field of law. The campus is known for its rigorous academics, active student community and strong industry connections that support placements and research.",
+      "campusSizeAcres": 360,
+      "hostelAvailable": false,
+      "courses": [
+        {
+          "name": "BA LLB",
+          "degree": "LLB",
+          "durationYears": 5,
+          "annualFee": 341000,
+          "seats": 180
+        },
+        {
+          "name": "BBA LLB",
+          "degree": "LLB",
+          "durationYears": 5,
+          "annualFee": 349000,
+          "seats": 180
+        },
+        {
+          "name": "LLM Corporate Law",
+          "degree": "LLM",
+          "durationYears": 1,
+          "annualFee": 335000,
+          "seats": 90
+        }
+      ],
+      "placements": [
+        {
+          "year": 2021,
+          "avgPackageLpa": 11.6,
+          "highestPackageLpa": 38.8,
+          "placementRate": 86.6,
+          "topRecruiters": [
+            "Wipro",
+            "KPMG",
+            "Larsen & Toubro",
+            "HUL",
+            "Cognizant"
+          ]
+        },
+        {
+          "year": 2022,
+          "avgPackageLpa": 10.8,
+          "highestPackageLpa": 45.2,
+          "placementRate": 90.0,
+          "topRecruiters": [
+            "Google",
+            "Deloitte",
+            "Wipro",
+            "KPMG",
+            "Infosys"
+          ]
+        },
+        {
+          "year": 2023,
+          "avgPackageLpa": 13.4,
+          "highestPackageLpa": 51.8,
+          "placementRate": 80.4,
+          "topRecruiters": [
+            "Larsen & Toubro",
+            "Cisco",
+            "Goldman Sachs",
+            "Infosys",
+            "Adobe"
+          ]
+        }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "collegeId": 1,
+      "author": "Vivaan T.",
+      "batch": "Batch of 2022",
+      "rating": 4.7,
+      "title": "Mixed experience overall",
+      "body": "Lots of clubs and fests. The peer group is competitive which keeps you motivated.",
+      "createdAt": "2023-02-13T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "collegeId": 1,
+      "author": "Aarav S.",
+      "batch": "Batch of 2021",
+      "rating": 3.0,
+      "title": "Great academics, decent placements",
+      "body": "Lots of clubs and fests. The peer group is competitive which keeps you motivated.",
+      "createdAt": "2023-10-14T10:00:00Z"
+    },
+    {
+      "id": 3,
+      "collegeId": 1,
+      "author": "Sara D.",
+      "batch": "Batch of 2021",
+      "rating": 4.4,
+      "title": "Placements could be better",
+      "body": "Lots of clubs and fests. The peer group is competitive which keeps you motivated.",
+      "createdAt": "2023-02-13T10:00:00Z"
+    },
+    {
+      "id": 4,
+      "collegeId": 1,
+      "author": "Aarav S.",
+      "batch": "Batch of 2020",
+      "rating": 3.3,
+      "title": "Excellent infrastructure",
+      "body": "Course curriculum is industry relevant. Internships helped me get a pre-placement offer.",
+      "createdAt": "2023-12-12T10:00:00Z"
+    },
+    {
+      "id": 5,
+      "collegeId": 2,
+      "author": "Arjun N.",
+      "batch": "Batch of 2024",
+      "rating": 3.2,
+      "title": "Placements could be better",
+      "body": "Library and sports facilities are top notch. Administration can be slow at times.",
+      "createdAt": "2023-07-17T10:00:00Z"
+    },
+    {
+      "id": 6,
+      "collegeId": 2,
+      "author": "Diya M.",
+      "batch": "Batch of 2021",
+      "rating": 4.7,
+      "title": "Value for money",
+      "body": "Lots of clubs and fests. The peer group is competitive which keeps you motivated.",
+      "createdAt": "2023-04-11T10:00:00Z"
+    },
+    {
+      "id": 7,
+      "collegeId": 2,
+      "author": "Rohan K.",
+      "batch": "Batch of 2018",
+      "rating": 4.0,
+      "title": "Great academics, decent placements",
+      "body": "Library and sports facilities are top notch. Administration can be slow at times.",
+      "createdAt": "2023-09-07T10:00:00Z"
+    },
+    {
+      "id": 8,
+      "collegeId": 3,
+      "author": "Ishita V.",
+      "batch": "Batch of 2023",
+      "rating": 4.9,
+      "title": "Value for money",
+      "body": "Campus has solid infrastructure but hostel food needs improvement. Academics are demanding.",
+      "createdAt": "2023-04-04T10:00:00Z"
+    },
+    {
+      "id": 9,
+      "collegeId": 3,
+      "author": "Rohan K.",
+      "batch": "Batch of 2020",
+      "rating": 3.4,
+      "title": "Excellent infrastructure",
+      "body": "Campus has solid infrastructure but hostel food needs improvement. Academics are demanding.",
+      "createdAt": "2023-11-03T10:00:00Z"
+    },
+    {
+      "id": 10,
+      "collegeId": 3,
+      "author": "Rohan K.",
+      "batch": "Batch of 2024",
+      "rating": 4.3,
+      "title": "Placements could be better",
+      "body": "Library and sports facilities are top notch. Administration can be slow at times.",
+      "createdAt": "2023-10-15T10:00:00Z"
+    },
+    {
+      "id": 11,
+      "collegeId": 3,
+      "author": "Sara D.",
+      "batch": "Batch of 2023",
+      "rating": 4.3,
+      "title": "Excellent infrastructure",
+      "body": "Lots of clubs and fests. The peer group is competitive which keeps you motivated.",
+      "createdAt": "2023-11-11T10:00:00Z"
+    },
+    {
+      "id": 12,
+      "collegeId": 3,
+      "author": "Rohan K.",
+      "batch": "Batch of 2021",
+      "rating": 3.1,
+      "title": "Placements could be better",
+      "body": "Lots of clubs and fests. The peer group is competitive which keeps you motivated.",
+      "createdAt": "2023-05-19T10:00:00Z"
+    },
+    {
+      "id": 13,
+      "collegeId": 4,
+      "author": "Ishita V.",
+      "batch": "Batch of 2022",
+      "rating": 3.1,
+      "title": "Placements could be better",
+      "body": "Course curriculum is industry relevant. Internships helped me get a pre-placement offer.",
+      "createdAt": "2023-01-02T10:00:00Z"
+    },
+    {
+      "id": 14,
+      "collegeId": 4,
+      "author": "Ishita V.",
+      "batch": "Batch of 2024",
+      "rating": 3.6,
+      "title": "Value for money",
+      "body": "The faculty is approachable and the labs are well maintained. Placement cell is proactive.",
+      "createdAt": "2023-10-20T10:00:00Z"
+    },
+    {
+      "id": 15,
+      "collegeId": 4,
+      "author": "Vivaan T.",
+      "batch": "Batch of 2021",
+      "rating": 3.9,
+      "title": "Excellent infrastructure",
+      "body": "The faculty is approachable and the labs are well maintained. Placement cell is proactive.",
+      "createdAt": "2023-08-26T10:00:00Z"
+    },
+    {
+      "id": 16,
+      "collegeId": 5,
+      "author": "Ishita V.",
+      "batch": "Batch of 2022",
+      "rating": 4.0,
+      "title": "Strong faculty support",
+      "body": "The faculty is approachable and the labs are well maintained. Placement cell is proactive.",
+      "createdAt": "2023-08-04T10:00:00Z"
+    },
+    {
+      "id": 17,
+      "collegeId": 5,
+      "author": "Ishita V.",
+      "batch": "Batch of 2023",
+      "rating": 3.2,
+      "title": "Value for money",
+      "body": "Campus has solid infrastructure but hostel food needs improvement. Academics are demanding.",
+      "createdAt": "2023-01-08T10:00:00Z"
+    },
+    {
+      "id": 18,
+      "collegeId": 5,
+      "author": "Meera J.",
+      "batch": "Batch of 2021",
+      "rating": 4.0,
+      "title": "Excellent infrastructure",
+      "body": "Campus has solid infrastructure but hostel food needs improvement. Academics are demanding.",
+      "createdAt": "2023-06-12T10:00:00Z"
+    },
+    {
+      "id": 19,
+      "collegeId": 5,
+      "author": "Kabir R.",
+      "batch": "Batch of 2021",
+      "rating": 3.8,
+      "title": "Good campus life",
+      "body": "Library and sports facilities are top notch. Administration can be slow at times.",
+      "createdAt": "2023-01-26T10:00:00Z"
+    },
+    {
+      "id": 20,
+      "collegeId": 6,
+      "author": "Diya M.",
+      "batch": "Batch of 2020",
+      "rating": 3.2,
+      "title": "Value for money",
+      "body": "Course curriculum is industry relevant. Internships helped me get a pre-placement offer.",
+      "createdAt": "2023-05-09T10:00:00Z"
+    },
+    {
+      "id": 21,
+      "collegeId": 6,
+      "author": "Sara D.",
+      "batch": "Batch of 2024",
+      "rating": 3.3,
+      "title": "Great academics, decent placements",
+      "body": "Library and sports facilities are top notch. Administration can be slow at times.",
+      "createdAt": "2023-11-05T10:00:00Z"
+    },
+    {
+      "id": 22,
+      "collegeId": 6,
+      "author": "Ishita V.",
+      "batch": "Batch of 2020",
+      "rating": 4.9,
+      "title": "Value for money",
+      "body": "Course curriculum is industry relevant. Internships helped me get a pre-placement offer.",
+      "createdAt": "2023-03-20T10:00:00Z"
+    },
+    {
+      "id": 23,
+      "collegeId": 6,
+      "author": "Diya M.",
+      "batch": "Batch of 2020",
+      "rating": 4.1,
+      "title": "Value for money",
+      "body": "Lots of clubs and fests. The peer group is competitive which keeps you motivated.",
+      "createdAt": "2023-03-22T10:00:00Z"
+    },
+    {
+      "id": 24,
+      "collegeId": 6,
+      "author": "Vivaan T.",
+      "batch": "Batch of 2018",
+      "rating": 4.3,
+      "title": "Placements could be better",
+      "body": "Library and sports facilities are top notch. Administration can be slow at times.",
+      "createdAt": "2023-06-01T10:00:00Z"
+    },
+    {
+      "id": 25,
+      "collegeId": 7,
+      "author": "Kabir R.",
+      "batch": "Batch of 2019",
+      "rating": 4.9,
+      "title": "Good campus life",
+      "body": "Course curriculum is industry relevant. Internships helped me get a pre-placement offer.",
+      "createdAt": "2023-04-08T10:00:00Z"
+    },
+    {
+      "id": 26,
+      "collegeId": 7,
+      "author": "Rohan K.",
+      "batch": "Batch of 2019",
+      "rating": 3.2,
+      "title": "Mixed experience overall",
+      "body": "The faculty is approachable and the labs are well maintained. Placement cell is proactive.",
+      "createdAt": "2023-09-25T10:00:00Z"
+    },
+    {
+      "id": 27,
+      "collegeId": 7,
+      "author": "Vivaan T.",
+      "batch": "Batch of 2024",
+      "rating": 4.5,
+      "title": "Excellent infrastructure",
+      "body": "The faculty is approachable and the labs are well maintained. Placement cell is proactive.",
+      "createdAt": "2023-11-11T10:00:00Z"
+    },
+    {
+      "id": 28,
+      "collegeId": 7,
+      "author": "Sara D.",
+      "batch": "Batch of 2019",
+      "rating": 4.2,
+      "title": "Strong faculty support",
+      "body": "Campus has solid infrastructure but hostel food needs improvement. Academics are demanding.",
+      "createdAt": "2023-03-27T10:00:00Z"
+    },
+    {
+      "id": 29,
+      "collegeId": 7,
+      "author": "Sara D.",
+      "batch": "Batch of 2024",
+      "rating": 4.8,
+      "title": "Value for money",
+      "body": "Course curriculum is industry relevant. Internships helped me get a pre-placement offer.",
+      "createdAt": "2023-01-14T10:00:00Z"
+    },
+    {
+      "id": 30,
+      "collegeId": 8,
+      "author": "Ananya P.",
+      "batch": "Batch of 2021",
+      "rating": 4.2,
+      "title": "Mixed experience overall",
+      "body": "Course curriculum is industry relevant. Internships helped me get a pre-placement offer.",
+      "createdAt": "2023-04-18T10:00:00Z"
+    },
+    {
+      "id": 31,
+      "collegeId": 8,
+      "author": "Ananya P.",
+      "batch": "Batch of 2020",
+      "rating": 4.9,
+      "title": "Mixed experience overall",
+      "body": "Course curriculum is industry relevant. Internships helped me get a pre-placement offer.",
+      "createdAt": "2023-04-12T10:00:00Z"
+    },
+    {
+      "id": 32,
+      "collegeId": 8,
+      "author": "Sara D.",
+      "batch": "Batch of 2021",
+      "rating": 3.9,
+      "title": "Good campus life",
+      "body": "Course curriculum is industry relevant. Internships helped me get a pre-placement offer.",
+      "createdAt": "2023-09-17T10:00:00Z"
+    },
+    {
+      "id": 33,
+      "collegeId": 8,
+      "author": "Arjun N.",
+      "batch": "Batch of 2019",
+      "rating": 4.6,
+      "title": "Mixed experience overall",
+      "body": "Library and sports facilities are top notch. Administration can be slow at times.",
+      "createdAt": "2023-03-28T10:00:00Z"
+    },
+    {
+      "id": 34,
+      "collegeId": 8,
+      "author": "Kabir R.",
+      "batch": "Batch of 2018",
+      "rating": 4.3,
+      "title": "Mixed experience overall",
+      "body": "Lots of clubs and fests. The peer group is competitive which keeps you motivated.",
+      "createdAt": "2023-09-04T10:00:00Z"
+    },
+    {
+      "id": 35,
+      "collegeId": 9,
+      "author": "Kabir R.",
+      "batch": "Batch of 2018",
+      "rating": 4.5,
+      "title": "Good campus life",
+      "body": "Course curriculum is industry relevant. Internships helped me get a pre-placement offer.",
+      "createdAt": "2023-09-05T10:00:00Z"
+    },
+    {
+      "id": 36,
+      "collegeId": 9,
+      "author": "Arjun N.",
+      "batch": "Batch of 2018",
+      "rating": 4.9,
+      "title": "Strong faculty support",
+      "body": "Course curriculum is industry relevant. Internships helped me get a pre-placement offer.",
+      "createdAt": "2023-06-01T10:00:00Z"
+    },
+    {
+      "id": 37,
+      "collegeId": 9,
+      "author": "Arjun N.",
+      "batch": "Batch of 2018",
+      "rating": 3.8,
+      "title": "Good campus life",
+      "body": "Campus has solid infrastructure but hostel food needs improvement. Academics are demanding.",
+      "createdAt": "2023-07-03T10:00:00Z"
+    },
+    {
+      "id": 38,
+      "collegeId": 10,
+      "author": "Ananya P.",
+      "batch": "Batch of 2018",
+      "rating": 3.6,
+      "title": "Great academics, decent placements",
+      "body": "Lots of clubs and fests. The peer group is competitive which keeps you motivated.",
+      "createdAt": "2023-03-05T10:00:00Z"
+    },
+    {
+      "id": 39,
+      "collegeId": 10,
+      "author": "Aarav S.",
+      "batch": "Batch of 2020",
+      "rating": 4.8,
+      "title": "Placements could be better",
+      "body": "Campus has solid infrastructure but hostel food needs improvement. Academics are demanding.",
+      "createdAt": "2023-12-16T10:00:00Z"
+    },
+    {
+      "id": 40,
+      "collegeId": 10,
+      "author": "Meera J.",
+      "batch": "Batch of 2022",
+      "rating": 3.0,
+      "title": "Great academics, decent placements",
+      "body": "The faculty is approachable and the labs are well maintained. Placement cell is proactive.",
+      "createdAt": "2023-05-07T10:00:00Z"
+    },
+    {
+      "id": 41,
+      "collegeId": 10,
+      "author": "Rohan K.",
+      "batch": "Batch of 2022",
+      "rating": 4.9,
+      "title": "Excellent infrastructure",
+      "body": "Library and sports facilities are top notch. Administration can be slow at times.",
+      "createdAt": "2023-07-04T10:00:00Z"
+    },
+    {
+      "id": 42,
+      "collegeId": 10,
+      "author": "Kabir R.",
+      "batch": "Batch of 2019",
+      "rating": 3.6,
+      "title": "Great academics, decent placements",
+      "body": "Campus has solid infrastructure but hostel food needs improvement. Academics are demanding.",
+      "createdAt": "2023-07-21T10:00:00Z"
+    },
+    {
+      "id": 43,
+      "collegeId": 11,
+      "author": "Diya M.",
+      "batch": "Batch of 2018",
+      "rating": 4.7,
+      "title": "Placements could be better",
+      "body": "Library and sports facilities are top notch. Administration can be slow at times.",
+      "createdAt": "2023-09-01T10:00:00Z"
+    },
+    {
+      "id": 44,
+      "collegeId": 11,
+      "author": "Vivaan T.",
+      "batch": "Batch of 2022",
+      "rating": 3.5,
+      "title": "Strong faculty support",
+      "body": "Lots of clubs and fests. The peer group is competitive which keeps you motivated.",
+      "createdAt": "2023-07-01T10:00:00Z"
+    },
+    {
+      "id": 45,
+      "collegeId": 11,
+      "author": "Sara D.",
+      "batch": "Batch of 2020",
+      "rating": 3.5,
+      "title": "Placements could be better",
+      "body": "Campus has solid infrastructure but hostel food needs improvement. Academics are demanding.",
+      "createdAt": "2023-11-22T10:00:00Z"
+    },
+    {
+      "id": 46,
+      "collegeId": 11,
+      "author": "Diya M.",
+      "batch": "Batch of 2022",
+      "rating": 4.9,
+      "title": "Great academics, decent placements",
+      "body": "Library and sports facilities are top notch. Administration can be slow at times.",
+      "createdAt": "2023-09-17T10:00:00Z"
+    },
+    {
+      "id": 47,
+      "collegeId": 11,
+      "author": "Vivaan T.",
+      "batch": "Batch of 2022",
+      "rating": 3.0,
+      "title": "Mixed experience overall",
+      "body": "Course curriculum is industry relevant. Internships helped me get a pre-placement offer.",
+      "createdAt": "2023-01-21T10:00:00Z"
+    },
+    {
+      "id": 48,
+      "collegeId": 11,
+      "author": "Arjun N.",
+      "batch": "Batch of 2020",
+      "rating": 3.5,
+      "title": "Great academics, decent placements",
+      "body": "Lots of clubs and fests. The peer group is competitive which keeps you motivated.",
+      "createdAt": "2023-02-12T10:00:00Z"
+    },
+    {
+      "id": 49,
+      "collegeId": 12,
+      "author": "Diya M.",
+      "batch": "Batch of 2024",
+      "rating": 4.2,
+      "title": "Mixed experience overall",
+      "body": "Lots of clubs and fests. The peer group is competitive which keeps you motivated.",
+      "createdAt": "2023-03-02T10:00:00Z"
+    },
+    {
+      "id": 50,
+      "collegeId": 12,
+      "author": "Ishita V.",
+      "batch": "Batch of 2022",
+      "rating": 3.7,
+      "title": "Value for money",
+      "body": "Campus has solid infrastructure but hostel food needs improvement. Academics are demanding.",
+      "createdAt": "2023-11-15T10:00:00Z"
+    },
+    {
+      "id": 51,
+      "collegeId": 12,
+      "author": "Meera J.",
+      "batch": "Batch of 2023",
+      "rating": 3.4,
+      "title": "Strong faculty support",
+      "body": "The faculty is approachable and the labs are well maintained. Placement cell is proactive.",
+      "createdAt": "2023-12-25T10:00:00Z"
+    },
+    {
+      "id": 52,
+      "collegeId": 12,
+      "author": "Meera J.",
+      "batch": "Batch of 2018",
+      "rating": 3.6,
+      "title": "Great academics, decent placements",
+      "body": "Campus has solid infrastructure but hostel food needs improvement. Academics are demanding.",
+      "createdAt": "2023-01-11T10:00:00Z"
+    },
+    {
+      "id": 53,
+      "collegeId": 13,
+      "author": "Vivaan T.",
+      "batch": "Batch of 2021",
+      "rating": 5.0,
+      "title": "Excellent infrastructure",
+      "body": "Course curriculum is industry relevant. Internships helped me get a pre-placement offer.",
+      "createdAt": "2023-05-02T10:00:00Z"
+    },
+    {
+      "id": 54,
+      "collegeId": 13,
+      "author": "Ananya P.",
+      "batch": "Batch of 2020",
+      "rating": 3.7,
+      "title": "Mixed experience overall",
+      "body": "The faculty is approachable and the labs are well maintained. Placement cell is proactive.",
+      "createdAt": "2023-11-11T10:00:00Z"
+    },
+    {
+      "id": 55,
+      "collegeId": 13,
+      "author": "Kabir R.",
+      "batch": "Batch of 2018",
+      "rating": 4.6,
+      "title": "Placements could be better",
+      "body": "Course curriculum is industry relevant. Internships helped me get a pre-placement offer.",
+      "createdAt": "2023-12-15T10:00:00Z"
+    },
+    {
+      "id": 56,
+      "collegeId": 13,
+      "author": "Arjun N.",
+      "batch": "Batch of 2020",
+      "rating": 4.9,
+      "title": "Placements could be better",
+      "body": "Course curriculum is industry relevant. Internships helped me get a pre-placement offer.",
+      "createdAt": "2023-06-26T10:00:00Z"
+    },
+    {
+      "id": 57,
+      "collegeId": 13,
+      "author": "Vivaan T.",
+      "batch": "Batch of 2020",
+      "rating": 4.6,
+      "title": "Value for money",
+      "body": "Course curriculum is industry relevant. Internships helped me get a pre-placement offer.",
+      "createdAt": "2023-02-14T10:00:00Z"
+    },
+    {
+      "id": 58,
+      "collegeId": 14,
+      "author": "Vivaan T.",
+      "batch": "Batch of 2020",
+      "rating": 3.6,
+      "title": "Great academics, decent placements",
+      "body": "Lots of clubs and fests. The peer group is competitive which keeps you motivated.",
+      "createdAt": "2023-11-10T10:00:00Z"
+    },
+    {
+      "id": 59,
+      "collegeId": 14,
+      "author": "Kabir R.",
+      "batch": "Batch of 2021",
+      "rating": 4.2,
+      "title": "Placements could be better",
+      "body": "Campus has solid infrastructure but hostel food needs improvement. Academics are demanding.",
+      "createdAt": "2023-12-15T10:00:00Z"
+    },
+    {
+      "id": 60,
+      "collegeId": 14,
+      "author": "Ishita V.",
+      "batch": "Batch of 2021",
+      "rating": 3.1,
+      "title": "Mixed experience overall",
+      "body": "Lots of clubs and fests. The peer group is competitive which keeps you motivated.",
+      "createdAt": "2023-10-14T10:00:00Z"
+    },
+    {
+      "id": 61,
+      "collegeId": 14,
+      "author": "Kabir R.",
+      "batch": "Batch of 2023",
+      "rating": 5.0,
+      "title": "Great academics, decent placements",
+      "body": "The faculty is approachable and the labs are well maintained. Placement cell is proactive.",
+      "createdAt": "2023-11-21T10:00:00Z"
+    },
+    {
+      "id": 62,
+      "collegeId": 15,
+      "author": "Ishita V.",
+      "batch": "Batch of 2022",
+      "rating": 4.6,
+      "title": "Value for money",
+      "body": "Campus has solid infrastructure but hostel food needs improvement. Academics are demanding.",
+      "createdAt": "2023-01-05T10:00:00Z"
+    },
+    {
+      "id": 63,
+      "collegeId": 15,
+      "author": "Sara D.",
+      "batch": "Batch of 2023",
+      "rating": 4.6,
+      "title": "Great academics, decent placements",
+      "body": "Campus has solid infrastructure but hostel food needs improvement. Academics are demanding.",
+      "createdAt": "2023-02-08T10:00:00Z"
+    },
+    {
+      "id": 64,
+      "collegeId": 15,
+      "author": "Ishita V.",
+      "batch": "Batch of 2020",
+      "rating": 3.8,
+      "title": "Excellent infrastructure",
+      "body": "The faculty is approachable and the labs are well maintained. Placement cell is proactive.",
+      "createdAt": "2023-10-05T10:00:00Z"
+    },
+    {
+      "id": 65,
+      "collegeId": 15,
+      "author": "Meera J.",
+      "batch": "Batch of 2020",
+      "rating": 3.7,
+      "title": "Mixed experience overall",
+      "body": "The faculty is approachable and the labs are well maintained. Placement cell is proactive.",
+      "createdAt": "2023-10-05T10:00:00Z"
+    },
+    {
+      "id": 66,
+      "collegeId": 15,
+      "author": "Vivaan T.",
+      "batch": "Batch of 2020",
+      "rating": 3.8,
+      "title": "Value for money",
+      "body": "Lots of clubs and fests. The peer group is competitive which keeps you motivated.",
+      "createdAt": "2023-04-04T10:00:00Z"
+    },
+    {
+      "id": 67,
+      "collegeId": 15,
+      "author": "Aarav S.",
+      "batch": "Batch of 2023",
+      "rating": 3.4,
+      "title": "Excellent infrastructure",
+      "body": "Course curriculum is industry relevant. Internships helped me get a pre-placement offer.",
+      "createdAt": "2023-09-04T10:00:00Z"
+    },
+    {
+      "id": 68,
+      "collegeId": 16,
+      "author": "Kabir R.",
+      "batch": "Batch of 2023",
+      "rating": 3.9,
+      "title": "Excellent infrastructure",
+      "body": "Lots of clubs and fests. The peer group is competitive which keeps you motivated.",
+      "createdAt": "2023-12-16T10:00:00Z"
+    },
+    {
+      "id": 69,
+      "collegeId": 16,
+      "author": "Ananya P.",
+      "batch": "Batch of 2018",
+      "rating": 3.3,
+      "title": "Great academics, decent placements",
+      "body": "Course curriculum is industry relevant. Internships helped me get a pre-placement offer.",
+      "createdAt": "2023-03-23T10:00:00Z"
+    },
+    {
+      "id": 70,
+      "collegeId": 16,
+      "author": "Meera J.",
+      "batch": "Batch of 2018",
+      "rating": 4.6,
+      "title": "Mixed experience overall",
+      "body": "Lots of clubs and fests. The peer group is competitive which keeps you motivated.",
+      "createdAt": "2023-11-12T10:00:00Z"
+    },
+    {
+      "id": 71,
+      "collegeId": 16,
+      "author": "Diya M.",
+      "batch": "Batch of 2022",
+      "rating": 4.1,
+      "title": "Good campus life",
+      "body": "Campus has solid infrastructure but hostel food needs improvement. Academics are demanding.",
+      "createdAt": "2023-12-23T10:00:00Z"
+    },
+    {
+      "id": 72,
+      "collegeId": 16,
+      "author": "Rohan K.",
+      "batch": "Batch of 2024",
+      "rating": 3.7,
+      "title": "Strong faculty support",
+      "body": "The faculty is approachable and the labs are well maintained. Placement cell is proactive.",
+      "createdAt": "2023-04-26T10:00:00Z"
+    },
+    {
+      "id": 73,
+      "collegeId": 17,
+      "author": "Ananya P.",
+      "batch": "Batch of 2024",
+      "rating": 4.0,
+      "title": "Good campus life",
+      "body": "Library and sports facilities are top notch. Administration can be slow at times.",
+      "createdAt": "2023-10-12T10:00:00Z"
+    },
+    {
+      "id": 74,
+      "collegeId": 17,
+      "author": "Meera J.",
+      "batch": "Batch of 2024",
+      "rating": 5.0,
+      "title": "Strong faculty support",
+      "body": "Library and sports facilities are top notch. Administration can be slow at times.",
+      "createdAt": "2023-02-03T10:00:00Z"
+    },
+    {
+      "id": 75,
+      "collegeId": 17,
+      "author": "Kabir R.",
+      "batch": "Batch of 2021",
+      "rating": 5.0,
+      "title": "Value for money",
+      "body": "Course curriculum is industry relevant. Internships helped me get a pre-placement offer.",
+      "createdAt": "2023-09-14T10:00:00Z"
+    },
+    {
+      "id": 76,
+      "collegeId": 17,
+      "author": "Arjun N.",
+      "batch": "Batch of 2024",
+      "rating": 4.1,
+      "title": "Strong faculty support",
+      "body": "Lots of clubs and fests. The peer group is competitive which keeps you motivated.",
+      "createdAt": "2023-11-03T10:00:00Z"
+    },
+    {
+      "id": 77,
+      "collegeId": 18,
+      "author": "Meera J.",
+      "batch": "Batch of 2023",
+      "rating": 4.0,
+      "title": "Strong faculty support",
+      "body": "Library and sports facilities are top notch. Administration can be slow at times.",
+      "createdAt": "2023-11-19T10:00:00Z"
+    },
+    {
+      "id": 78,
+      "collegeId": 18,
+      "author": "Rohan K.",
+      "batch": "Batch of 2024",
+      "rating": 4.9,
+      "title": "Placements could be better",
+      "body": "Library and sports facilities are top notch. Administration can be slow at times.",
+      "createdAt": "2023-01-27T10:00:00Z"
+    },
+    {
+      "id": 79,
+      "collegeId": 18,
+      "author": "Diya M.",
+      "batch": "Batch of 2022",
+      "rating": 3.3,
+      "title": "Strong faculty support",
+      "body": "Campus has solid infrastructure but hostel food needs improvement. Academics are demanding.",
+      "createdAt": "2023-06-23T10:00:00Z"
+    },
+    {
+      "id": 80,
+      "collegeId": 18,
+      "author": "Ananya P.",
+      "batch": "Batch of 2020",
+      "rating": 4.9,
+      "title": "Excellent infrastructure",
+      "body": "Lots of clubs and fests. The peer group is competitive which keeps you motivated.",
+      "createdAt": "2023-02-09T10:00:00Z"
+    },
+    {
+      "id": 81,
+      "collegeId": 18,
+      "author": "Ananya P.",
+      "batch": "Batch of 2023",
+      "rating": 4.9,
+      "title": "Good campus life",
+      "body": "Campus has solid infrastructure but hostel food needs improvement. Academics are demanding.",
+      "createdAt": "2023-11-10T10:00:00Z"
+    },
+    {
+      "id": 82,
+      "collegeId": 18,
+      "author": "Sara D.",
+      "batch": "Batch of 2022",
+      "rating": 3.2,
+      "title": "Value for money",
+      "body": "Campus has solid infrastructure but hostel food needs improvement. Academics are demanding.",
+      "createdAt": "2023-10-19T10:00:00Z"
+    },
+    {
+      "id": 83,
+      "collegeId": 19,
+      "author": "Rohan K.",
+      "batch": "Batch of 2023",
+      "rating": 4.2,
+      "title": "Excellent infrastructure",
+      "body": "Lots of clubs and fests. The peer group is competitive which keeps you motivated.",
+      "createdAt": "2023-10-02T10:00:00Z"
+    },
+    {
+      "id": 84,
+      "collegeId": 19,
+      "author": "Aarav S.",
+      "batch": "Batch of 2018",
+      "rating": 3.1,
+      "title": "Value for money",
+      "body": "Library and sports facilities are top notch. Administration can be slow at times.",
+      "createdAt": "2023-05-21T10:00:00Z"
+    },
+    {
+      "id": 85,
+      "collegeId": 19,
+      "author": "Ananya P.",
+      "batch": "Batch of 2024",
+      "rating": 4.1,
+      "title": "Excellent infrastructure",
+      "body": "The faculty is approachable and the labs are well maintained. Placement cell is proactive.",
+      "createdAt": "2023-08-21T10:00:00Z"
+    },
+    {
+      "id": 86,
+      "collegeId": 19,
+      "author": "Vivaan T.",
+      "batch": "Batch of 2020",
+      "rating": 4.3,
+      "title": "Good campus life",
+      "body": "Course curriculum is industry relevant. Internships helped me get a pre-placement offer.",
+      "createdAt": "2023-04-26T10:00:00Z"
+    },
+    {
+      "id": 87,
+      "collegeId": 20,
+      "author": "Kabir R.",
+      "batch": "Batch of 2021",
+      "rating": 3.1,
+      "title": "Great academics, decent placements",
+      "body": "Campus has solid infrastructure but hostel food needs improvement. Academics are demanding.",
+      "createdAt": "2023-08-14T10:00:00Z"
+    },
+    {
+      "id": 88,
+      "collegeId": 20,
+      "author": "Meera J.",
+      "batch": "Batch of 2021",
+      "rating": 3.4,
+      "title": "Excellent infrastructure",
+      "body": "Campus has solid infrastructure but hostel food needs improvement. Academics are demanding.",
+      "createdAt": "2023-06-28T10:00:00Z"
+    },
+    {
+      "id": 89,
+      "collegeId": 20,
+      "author": "Ishita V.",
+      "batch": "Batch of 2023",
+      "rating": 5.0,
+      "title": "Good campus life",
+      "body": "Course curriculum is industry relevant. Internships helped me get a pre-placement offer.",
+      "createdAt": "2023-03-25T10:00:00Z"
+    },
+    {
+      "id": 90,
+      "collegeId": 20,
+      "author": "Ishita V.",
+      "batch": "Batch of 2022",
+      "rating": 4.1,
+      "title": "Good campus life",
+      "body": "Campus has solid infrastructure but hostel food needs improvement. Academics are demanding.",
+      "createdAt": "2023-08-04T10:00:00Z"
+    },
+    {
+      "id": 91,
+      "collegeId": 20,
+      "author": "Kabir R.",
+      "batch": "Batch of 2021",
+      "rating": 3.5,
+      "title": "Great academics, decent placements",
+      "body": "The faculty is approachable and the labs are well maintained. Placement cell is proactive.",
+      "createdAt": "2023-05-13T10:00:00Z"
+    },
+    {
+      "id": 92,
+      "collegeId": 20,
+      "author": "Sara D.",
+      "batch": "Batch of 2021",
+      "rating": 3.5,
+      "title": "Mixed experience overall",
+      "body": "Campus has solid infrastructure but hostel food needs improvement. Academics are demanding.",
+      "createdAt": "2023-06-19T10:00:00Z"
+    },
+    {
+      "id": 93,
+      "collegeId": 21,
+      "author": "Ananya P.",
+      "batch": "Batch of 2024",
+      "rating": 3.3,
+      "title": "Excellent infrastructure",
+      "body": "Course curriculum is industry relevant. Internships helped me get a pre-placement offer.",
+      "createdAt": "2023-08-10T10:00:00Z"
+    },
+    {
+      "id": 94,
+      "collegeId": 21,
+      "author": "Meera J.",
+      "batch": "Batch of 2018",
+      "rating": 3.2,
+      "title": "Placements could be better",
+      "body": "Library and sports facilities are top notch. Administration can be slow at times.",
+      "createdAt": "2023-08-08T10:00:00Z"
+    },
+    {
+      "id": 95,
+      "collegeId": 21,
+      "author": "Ananya P.",
+      "batch": "Batch of 2022",
+      "rating": 3.7,
+      "title": "Great academics, decent placements",
+      "body": "Lots of clubs and fests. The peer group is competitive which keeps you motivated.",
+      "createdAt": "2023-08-20T10:00:00Z"
+    },
+    {
+      "id": 96,
+      "collegeId": 21,
+      "author": "Meera J.",
+      "batch": "Batch of 2020",
+      "rating": 4.1,
+      "title": "Mixed experience overall",
+      "body": "The faculty is approachable and the labs are well maintained. Placement cell is proactive.",
+      "createdAt": "2023-07-05T10:00:00Z"
+    },
+    {
+      "id": 97,
+      "collegeId": 21,
+      "author": "Kabir R.",
+      "batch": "Batch of 2023",
+      "rating": 3.7,
+      "title": "Placements could be better",
+      "body": "Lots of clubs and fests. The peer group is competitive which keeps you motivated.",
+      "createdAt": "2023-01-13T10:00:00Z"
+    },
+    {
+      "id": 98,
+      "collegeId": 22,
+      "author": "Sara D.",
+      "batch": "Batch of 2022",
+      "rating": 3.4,
+      "title": "Excellent infrastructure",
+      "body": "Lots of clubs and fests. The peer group is competitive which keeps you motivated.",
+      "createdAt": "2023-02-13T10:00:00Z"
+    },
+    {
+      "id": 99,
+      "collegeId": 22,
+      "author": "Vivaan T.",
+      "batch": "Batch of 2021",
+      "rating": 4.5,
+      "title": "Good campus life",
+      "body": "Library and sports facilities are top notch. Administration can be slow at times.",
+      "createdAt": "2023-11-20T10:00:00Z"
+    },
+    {
+      "id": 100,
+      "collegeId": 22,
+      "author": "Diya M.",
+      "batch": "Batch of 2019",
+      "rating": 5.0,
+      "title": "Placements could be better",
+      "body": "Lots of clubs and fests. The peer group is competitive which keeps you motivated.",
+      "createdAt": "2023-06-18T10:00:00Z"
+    },
+    {
+      "id": 101,
+      "collegeId": 23,
+      "author": "Rohan K.",
+      "batch": "Batch of 2019",
+      "rating": 4.2,
+      "title": "Placements could be better",
+      "body": "Library and sports facilities are top notch. Administration can be slow at times.",
+      "createdAt": "2023-01-02T10:00:00Z"
+    },
+    {
+      "id": 102,
+      "collegeId": 23,
+      "author": "Aarav S.",
+      "batch": "Batch of 2019",
+      "rating": 4.4,
+      "title": "Mixed experience overall",
+      "body": "Course curriculum is industry relevant. Internships helped me get a pre-placement offer.",
+      "createdAt": "2023-09-15T10:00:00Z"
+    },
+    {
+      "id": 103,
+      "collegeId": 23,
+      "author": "Rohan K.",
+      "batch": "Batch of 2022",
+      "rating": 4.8,
+      "title": "Strong faculty support",
+      "body": "Lots of clubs and fests. The peer group is competitive which keeps you motivated.",
+      "createdAt": "2023-10-11T10:00:00Z"
+    },
+    {
+      "id": 104,
+      "collegeId": 23,
+      "author": "Rohan K.",
+      "batch": "Batch of 2021",
+      "rating": 5.0,
+      "title": "Value for money",
+      "body": "Lots of clubs and fests. The peer group is competitive which keeps you motivated.",
+      "createdAt": "2023-10-11T10:00:00Z"
+    },
+    {
+      "id": 105,
+      "collegeId": 23,
+      "author": "Vivaan T.",
+      "batch": "Batch of 2024",
+      "rating": 4.0,
+      "title": "Placements could be better",
+      "body": "Library and sports facilities are top notch. Administration can be slow at times.",
+      "createdAt": "2023-05-16T10:00:00Z"
+    },
+    {
+      "id": 106,
+      "collegeId": 24,
+      "author": "Ishita V.",
+      "batch": "Batch of 2020",
+      "rating": 4.3,
+      "title": "Placements could be better",
+      "body": "Library and sports facilities are top notch. Administration can be slow at times.",
+      "createdAt": "2023-05-26T10:00:00Z"
+    },
+    {
+      "id": 107,
+      "collegeId": 24,
+      "author": "Aarav S.",
+      "batch": "Batch of 2022",
+      "rating": 3.9,
+      "title": "Value for money",
+      "body": "Library and sports facilities are top notch. Administration can be slow at times.",
+      "createdAt": "2023-10-08T10:00:00Z"
+    },
+    {
+      "id": 108,
+      "collegeId": 24,
+      "author": "Aarav S.",
+      "batch": "Batch of 2022",
+      "rating": 4.0,
+      "title": "Excellent infrastructure",
+      "body": "Library and sports facilities are top notch. Administration can be slow at times.",
+      "createdAt": "2023-07-05T10:00:00Z"
+    },
+    {
+      "id": 109,
+      "collegeId": 25,
+      "author": "Aarav S.",
+      "batch": "Batch of 2022",
+      "rating": 4.9,
+      "title": "Great academics, decent placements",
+      "body": "Campus has solid infrastructure but hostel food needs improvement. Academics are demanding.",
+      "createdAt": "2023-01-15T10:00:00Z"
+    },
+    {
+      "id": 110,
+      "collegeId": 25,
+      "author": "Ishita V.",
+      "batch": "Batch of 2021",
+      "rating": 3.3,
+      "title": "Value for money",
+      "body": "Campus has solid infrastructure but hostel food needs improvement. Academics are demanding.",
+      "createdAt": "2023-07-17T10:00:00Z"
+    },
+    {
+      "id": 111,
+      "collegeId": 25,
+      "author": "Sara D.",
+      "batch": "Batch of 2021",
+      "rating": 4.7,
+      "title": "Value for money",
+      "body": "The faculty is approachable and the labs are well maintained. Placement cell is proactive.",
+      "createdAt": "2023-12-05T10:00:00Z"
+    },
+    {
+      "id": 112,
+      "collegeId": 25,
+      "author": "Vivaan T.",
+      "batch": "Batch of 2019",
+      "rating": 4.1,
+      "title": "Value for money",
+      "body": "Course curriculum is industry relevant. Internships helped me get a pre-placement offer.",
+      "createdAt": "2023-09-13T10:00:00Z"
+    },
+    {
+      "id": 113,
+      "collegeId": 26,
+      "author": "Rohan K.",
+      "batch": "Batch of 2021",
+      "rating": 4.8,
+      "title": "Good campus life",
+      "body": "Library and sports facilities are top notch. Administration can be slow at times.",
+      "createdAt": "2023-06-22T10:00:00Z"
+    },
+    {
+      "id": 114,
+      "collegeId": 26,
+      "author": "Kabir R.",
+      "batch": "Batch of 2022",
+      "rating": 4.0,
+      "title": "Strong faculty support",
+      "body": "Lots of clubs and fests. The peer group is competitive which keeps you motivated.",
+      "createdAt": "2023-09-10T10:00:00Z"
+    },
+    {
+      "id": 115,
+      "collegeId": 26,
+      "author": "Ananya P.",
+      "batch": "Batch of 2020",
+      "rating": 4.5,
+      "title": "Value for money",
+      "body": "Campus has solid infrastructure but hostel food needs improvement. Academics are demanding.",
+      "createdAt": "2023-12-23T10:00:00Z"
+    },
+    {
+      "id": 116,
+      "collegeId": 26,
+      "author": "Meera J.",
+      "batch": "Batch of 2020",
+      "rating": 4.0,
+      "title": "Excellent infrastructure",
+      "body": "Lots of clubs and fests. The peer group is competitive which keeps you motivated.",
+      "createdAt": "2023-05-04T10:00:00Z"
+    },
+    {
+      "id": 117,
+      "collegeId": 26,
+      "author": "Sara D.",
+      "batch": "Batch of 2023",
+      "rating": 4.1,
+      "title": "Placements could be better",
+      "body": "Lots of clubs and fests. The peer group is competitive which keeps you motivated.",
+      "createdAt": "2023-03-10T10:00:00Z"
+    },
+    {
+      "id": 118,
+      "collegeId": 27,
+      "author": "Kabir R.",
+      "batch": "Batch of 2023",
+      "rating": 3.2,
+      "title": "Placements could be better",
+      "body": "Lots of clubs and fests. The peer group is competitive which keeps you motivated.",
+      "createdAt": "2023-12-16T10:00:00Z"
+    },
+    {
+      "id": 119,
+      "collegeId": 27,
+      "author": "Ananya P.",
+      "batch": "Batch of 2019",
+      "rating": 4.7,
+      "title": "Good campus life",
+      "body": "Library and sports facilities are top notch. Administration can be slow at times.",
+      "createdAt": "2023-12-09T10:00:00Z"
+    },
+    {
+      "id": 120,
+      "collegeId": 27,
+      "author": "Rohan K.",
+      "batch": "Batch of 2018",
+      "rating": 4.2,
+      "title": "Excellent infrastructure",
+      "body": "Campus has solid infrastructure but hostel food needs improvement. Academics are demanding.",
+      "createdAt": "2023-04-02T10:00:00Z"
+    },
+    {
+      "id": 121,
+      "collegeId": 28,
+      "author": "Ananya P.",
+      "batch": "Batch of 2018",
+      "rating": 3.2,
+      "title": "Good campus life",
+      "body": "Course curriculum is industry relevant. Internships helped me get a pre-placement offer.",
+      "createdAt": "2023-02-22T10:00:00Z"
+    },
+    {
+      "id": 122,
+      "collegeId": 28,
+      "author": "Rohan K.",
+      "batch": "Batch of 2018",
+      "rating": 4.9,
+      "title": "Strong faculty support",
+      "body": "Course curriculum is industry relevant. Internships helped me get a pre-placement offer.",
+      "createdAt": "2023-11-16T10:00:00Z"
+    },
+    {
+      "id": 123,
+      "collegeId": 28,
+      "author": "Meera J.",
+      "batch": "Batch of 2023",
+      "rating": 3.4,
+      "title": "Good campus life",
+      "body": "Lots of clubs and fests. The peer group is competitive which keeps you motivated.",
+      "createdAt": "2023-05-21T10:00:00Z"
+    },
+    {
+      "id": 124,
+      "collegeId": 28,
+      "author": "Aarav S.",
+      "batch": "Batch of 2024",
+      "rating": 3.2,
+      "title": "Excellent infrastructure",
+      "body": "Campus has solid infrastructure but hostel food needs improvement. Academics are demanding.",
+      "createdAt": "2023-09-24T10:00:00Z"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "title": "What rank do I need for admission?",
+      "body": "Considering this over two other options, need help deciding.",
+      "author": "Rohan K.",
+      "tags": [
+        "placements",
+        "campus-life"
+      ],
+      "collegeId": 24,
+      "createdAt": "2024-04-06T09:00:00Z",
+      "answerCount": 0
+    },
+    {
+      "id": 2,
+      "title": "Is the placement record reliable for CS branch?",
+      "body": "I'm a final year aspirant trying to decide. Any current students who can share real numbers?",
+      "author": "Kabir R.",
+      "tags": [
+        "hostel",
+        "admission"
+      ],
+      "collegeId": null,
+      "createdAt": "2024-06-18T09:00:00Z",
+      "answerCount": 2
+    },
+    {
+      "id": 3,
+      "title": "Best clubs to join on campus?",
+      "body": "My entrance score is decent and I want to know my chances here.",
+      "author": "Rohan K.",
+      "tags": [
+        "placements",
+        "faculty"
+      ],
+      "collegeId": 11,
+      "createdAt": "2024-03-19T09:00:00Z",
+      "answerCount": 1
+    },
+    {
+      "id": 4,
+      "title": "Are there good research opportunities?",
+      "body": "I'm a final year aspirant trying to decide. Any current students who can share real numbers?",
+      "author": "Arjun N.",
+      "tags": [
+        "hostel",
+        "cutoff"
+      ],
+      "collegeId": 13,
+      "createdAt": "2024-04-11T09:00:00Z",
+      "answerCount": 3
+    },
+    {
+      "id": 5,
+      "title": "Is the placement record reliable for CS branch?",
+      "body": "I'm a final year aspirant trying to decide. Any current students who can share real numbers?",
+      "author": "Meera J.",
+      "tags": [
+        "academics",
+        "hostel"
+      ],
+      "collegeId": 23,
+      "createdAt": "2024-05-23T09:00:00Z",
+      "answerCount": 1
+    },
+    {
+      "id": 6,
+      "title": "Is it worth the fees for management?",
+      "body": "Looking for honest opinions before I confirm my seat. Thanks in advance!",
+      "author": "Meera J.",
+      "tags": [
+        "admission",
+        "fees"
+      ],
+      "collegeId": 20,
+      "createdAt": "2024-05-12T09:00:00Z",
+      "answerCount": 1
+    },
+    {
+      "id": 7,
+      "title": "Is it worth the fees for management?",
+      "body": "I'm a final year aspirant trying to decide. Any current students who can share real numbers?",
+      "author": "Vivaan T.",
+      "tags": [
+        "cutoff",
+        "academics"
+      ],
+      "collegeId": 26,
+      "createdAt": "2024-01-19T09:00:00Z",
+      "answerCount": 1
+    },
+    {
+      "id": 8,
+      "title": "What rank do I need for admission?",
+      "body": "Looking for honest opinions before I confirm my seat. Thanks in advance!",
+      "author": "Ishita V.",
+      "tags": [
+        "cutoff",
+        "placements"
+      ],
+      "collegeId": 19,
+      "createdAt": "2024-06-19T09:00:00Z",
+      "answerCount": 4
+    },
+    {
+      "id": 9,
+      "title": "How is the hostel life?",
+      "body": "I'm a final year aspirant trying to decide. Any current students who can share real numbers?",
+      "author": "Arjun N.",
+      "tags": [
+        "faculty",
+        "cutoff"
+      ],
+      "collegeId": null,
+      "createdAt": "2024-01-03T09:00:00Z",
+      "answerCount": 1
+    },
+    {
+      "id": 10,
+      "title": "How is the faculty for core subjects?",
+      "body": "My entrance score is decent and I want to know my chances here.",
+      "author": "Arjun N.",
+      "tags": [
+        "cutoff",
+        "campus-life"
+      ],
+      "collegeId": 25,
+      "createdAt": "2024-04-13T09:00:00Z",
+      "answerCount": 1
+    },
+    {
+      "id": 11,
+      "title": "What rank do I need for admission?",
+      "body": "Considering this over two other options, need help deciding.",
+      "author": "Vivaan T.",
+      "tags": [
+        "admission",
+        "faculty"
+      ],
+      "collegeId": 12,
+      "createdAt": "2024-01-25T09:00:00Z",
+      "answerCount": 0
+    },
+    {
+      "id": 12,
+      "title": "Best clubs to join on campus?",
+      "body": "Considering this over two other options, need help deciding.",
+      "author": "Vivaan T.",
+      "tags": [
+        "campus-life",
+        "cutoff"
+      ],
+      "collegeId": null,
+      "createdAt": "2024-04-12T09:00:00Z",
+      "answerCount": 2
+    },
+    {
+      "id": 13,
+      "title": "Is it worth the fees for management?",
+      "body": "Looking for honest opinions before I confirm my seat. Thanks in advance!",
+      "author": "Diya M.",
+      "tags": [
+        "hostel",
+        "academics"
+      ],
+      "collegeId": null,
+      "createdAt": "2024-05-22T09:00:00Z",
+      "answerCount": 0
+    },
+    {
+      "id": 14,
+      "title": "Is it worth the fees for management?",
+      "body": "I'm a final year aspirant trying to decide. Any current students who can share real numbers?",
+      "author": "Arjun N.",
+      "tags": [
+        "cutoff",
+        "hostel"
+      ],
+      "collegeId": 23,
+      "createdAt": "2024-01-05T09:00:00Z",
+      "answerCount": 0
+    },
+    {
+      "id": 15,
+      "title": "Is it worth the fees for management?",
+      "body": "My entrance score is decent and I want to know my chances here.",
+      "author": "Sara D.",
+      "tags": [
+        "faculty",
+        "hostel"
+      ],
+      "collegeId": 17,
+      "createdAt": "2024-02-22T09:00:00Z",
+      "answerCount": 2
+    },
+    {
+      "id": 16,
+      "title": "Best clubs to join on campus?",
+      "body": "I'm a final year aspirant trying to decide. Any current students who can share real numbers?",
+      "author": "Ishita V.",
+      "tags": [
+        "campus-life",
+        "cutoff"
+      ],
+      "collegeId": 21,
+      "createdAt": "2024-06-14T09:00:00Z",
+      "answerCount": 3
+    },
+    {
+      "id": 17,
+      "title": "What rank do I need for admission?",
+      "body": "Considering this over two other options, need help deciding.",
+      "author": "Ananya P.",
+      "tags": [
+        "academics",
+        "hostel"
+      ],
+      "collegeId": 14,
+      "createdAt": "2024-01-15T09:00:00Z",
+      "answerCount": 3
+    },
+    {
+      "id": 18,
+      "title": "Is it worth the fees for management?",
+      "body": "Considering this over two other options, need help deciding.",
+      "author": "Ananya P.",
+      "tags": [
+        "faculty",
+        "admission"
+      ],
+      "collegeId": 7,
+      "createdAt": "2024-01-07T09:00:00Z",
+      "answerCount": 4
+    }
+  ],
+  "answers": [
+    {
+      "id": 1,
+      "questionId": 2,
+      "author": "Vivaan T.",
+      "body": "It paid off for me through the internship pipeline and alumni network.",
+      "upvotes": 8,
+      "createdAt": "2024-07-17T11:00:00Z"
+    },
+    {
+      "id": 2,
+      "questionId": 2,
+      "author": "Meera J.",
+      "body": "Cutoffs vary each year but you have a realistic shot based on what you described.",
+      "upvotes": 12,
+      "createdAt": "2024-07-04T11:00:00Z"
+    },
+    {
+      "id": 3,
+      "questionId": 3,
+      "author": "Ananya P.",
+      "body": "Hostel is comfortable, decent wifi and mess. Make friends early and you'll enjoy it.",
+      "upvotes": 39,
+      "createdAt": "2024-07-21T11:00:00Z"
+    },
+    {
+      "id": 4,
+      "questionId": 4,
+      "author": "Ananya P.",
+      "body": "From my batch, the figures shared were fairly accurate. Core branches do well.",
+      "upvotes": 16,
+      "createdAt": "2024-04-08T11:00:00Z"
+    },
+    {
+      "id": 5,
+      "questionId": 4,
+      "author": "Meera J.",
+      "body": "Cutoffs vary each year but you have a realistic shot based on what you described.",
+      "upvotes": 21,
+      "createdAt": "2024-03-19T11:00:00Z"
+    },
+    {
+      "id": 6,
+      "questionId": 4,
+      "author": "Sara D.",
+      "body": "From my batch, the figures shared were fairly accurate. Core branches do well.",
+      "upvotes": 16,
+      "createdAt": "2024-06-12T11:00:00Z"
+    },
+    {
+      "id": 7,
+      "questionId": 5,
+      "author": "Kabir R.",
+      "body": "From my batch, the figures shared were fairly accurate. Core branches do well.",
+      "upvotes": 40,
+      "createdAt": "2024-03-12T11:00:00Z"
+    },
+    {
+      "id": 8,
+      "questionId": 6,
+      "author": "Arjun N.",
+      "body": "Workload is heavy in first two years, gets manageable once you pick electives.",
+      "upvotes": 30,
+      "createdAt": "2024-07-18T11:00:00Z"
+    },
+    {
+      "id": 9,
+      "questionId": 7,
+      "author": "Diya M.",
+      "body": "From my batch, the figures shared were fairly accurate. Core branches do well.",
+      "upvotes": 35,
+      "createdAt": "2024-05-07T11:00:00Z"
+    },
+    {
+      "id": 10,
+      "questionId": 8,
+      "author": "Meera J.",
+      "body": "From my batch, the figures shared were fairly accurate. Core branches do well.",
+      "upvotes": 32,
+      "createdAt": "2024-04-26T11:00:00Z"
+    },
+    {
+      "id": 11,
+      "questionId": 8,
+      "author": "Aarav S.",
+      "body": "It paid off for me through the internship pipeline and alumni network.",
+      "upvotes": 8,
+      "createdAt": "2024-05-14T11:00:00Z"
+    },
+    {
+      "id": 12,
+      "questionId": 8,
+      "author": "Meera J.",
+      "body": "Workload is heavy in first two years, gets manageable once you pick electives.",
+      "upvotes": 3,
+      "createdAt": "2024-05-15T11:00:00Z"
+    },
+    {
+      "id": 13,
+      "questionId": 8,
+      "author": "Kabir R.",
+      "body": "From my batch, the figures shared were fairly accurate. Core branches do well.",
+      "upvotes": 25,
+      "createdAt": "2024-03-27T11:00:00Z"
+    },
+    {
+      "id": 14,
+      "questionId": 9,
+      "author": "Meera J.",
+      "body": "From my batch, the figures shared were fairly accurate. Core branches do well.",
+      "upvotes": 18,
+      "createdAt": "2024-04-06T11:00:00Z"
+    },
+    {
+      "id": 15,
+      "questionId": 10,
+      "author": "Diya M.",
+      "body": "Workload is heavy in first two years, gets manageable once you pick electives.",
+      "upvotes": 8,
+      "createdAt": "2024-06-28T11:00:00Z"
+    },
+    {
+      "id": 16,
+      "questionId": 12,
+      "author": "Rohan K.",
+      "body": "Cutoffs vary each year but you have a realistic shot based on what you described.",
+      "upvotes": 12,
+      "createdAt": "2024-06-25T11:00:00Z"
+    },
+    {
+      "id": 17,
+      "questionId": 12,
+      "author": "Diya M.",
+      "body": "From my batch, the figures shared were fairly accurate. Core branches do well.",
+      "upvotes": 42,
+      "createdAt": "2024-04-20T11:00:00Z"
+    },
+    {
+      "id": 18,
+      "questionId": 15,
+      "author": "Vivaan T.",
+      "body": "Hostel is comfortable, decent wifi and mess. Make friends early and you'll enjoy it.",
+      "upvotes": 26,
+      "createdAt": "2024-03-09T11:00:00Z"
+    },
+    {
+      "id": 19,
+      "questionId": 15,
+      "author": "Aarav S.",
+      "body": "Workload is heavy in first two years, gets manageable once you pick electives.",
+      "upvotes": 37,
+      "createdAt": "2024-06-06T11:00:00Z"
+    },
+    {
+      "id": 20,
+      "questionId": 16,
+      "author": "Arjun N.",
+      "body": "Hostel is comfortable, decent wifi and mess. Make friends early and you'll enjoy it.",
+      "upvotes": 19,
+      "createdAt": "2024-04-06T11:00:00Z"
+    },
+    {
+      "id": 21,
+      "questionId": 16,
+      "author": "Vivaan T.",
+      "body": "It paid off for me through the internship pipeline and alumni network.",
+      "upvotes": 15,
+      "createdAt": "2024-07-08T11:00:00Z"
+    },
+    {
+      "id": 22,
+      "questionId": 16,
+      "author": "Kabir R.",
+      "body": "Hostel is comfortable, decent wifi and mess. Make friends early and you'll enjoy it.",
+      "upvotes": 29,
+      "createdAt": "2024-01-18T11:00:00Z"
+    },
+    {
+      "id": 23,
+      "questionId": 17,
+      "author": "Ishita V.",
+      "body": "From my batch, the figures shared were fairly accurate. Core branches do well.",
+      "upvotes": 34,
+      "createdAt": "2024-06-27T11:00:00Z"
+    },
+    {
+      "id": 24,
+      "questionId": 17,
+      "author": "Ananya P.",
+      "body": "From my batch, the figures shared were fairly accurate. Core branches do well.",
+      "upvotes": 17,
+      "createdAt": "2024-04-22T11:00:00Z"
+    },
+    {
+      "id": 25,
+      "questionId": 17,
+      "author": "Sara D.",
+      "body": "Workload is heavy in first two years, gets manageable once you pick electives.",
+      "upvotes": 2,
+      "createdAt": "2024-07-03T11:00:00Z"
+    },
+    {
+      "id": 26,
+      "questionId": 18,
+      "author": "Ananya P.",
+      "body": "From my batch, the figures shared were fairly accurate. Core branches do well.",
+      "upvotes": 30,
+      "createdAt": "2024-02-23T11:00:00Z"
+    },
+    {
+      "id": 27,
+      "questionId": 18,
+      "author": "Sara D.",
+      "body": "Hostel is comfortable, decent wifi and mess. Make friends early and you'll enjoy it.",
+      "upvotes": 25,
+      "createdAt": "2024-02-18T11:00:00Z"
+    },
+    {
+      "id": 28,
+      "questionId": 18,
+      "author": "Ishita V.",
+      "body": "Cutoffs vary each year but you have a realistic shot based on what you described.",
+      "upvotes": 24,
+      "createdAt": "2024-04-18T11:00:00Z"
+    },
+    {
+      "id": 29,
+      "questionId": 18,
+      "author": "Ishita V.",
+      "body": "Cutoffs vary each year but you have a realistic shot based on what you described.",
+      "upvotes": 16,
+      "createdAt": "2024-03-17T11:00:00Z"
+    }
+  ]
+}
